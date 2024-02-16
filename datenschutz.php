@@ -14,6 +14,10 @@
         <?php include "header.html" ?>
     </header>
 
+    <nav>
+        <?php include "nav.html" ?>
+    </nav>
+
     <section>
         <h2>Datenschutzerklärung </h2>
         <ul class="listofdata">
@@ -24,14 +28,14 @@
                     [Kontaktinformationen des Verantwortlichen]
                 </p>
             </li>
-            <li class="eachlist"><strong>2. Erfassung und Verarbeitung personenbezogener Daten/strong>
-                    <p class="textoflist">Wir, [Name Ihrer Website], erheben und verarbeiten personenbezogene Daten
-                        unserer Nutzer nur, soweit dies zur Bereitstellung einer funktionsfähigen Website sowie unserer
-                        Inhalte und Leistungen erforderlich ist. Die Verarbeitung personenbezogener Daten erfolgt regelmäßig
-                        nur nach Einwilligung des Nutzers. Eine Ausnahme gilt in solchen Fällen, in denen eine vorherige
-                        Einholung einer Einwilligung aus tatsächlichen Gründen nicht möglich ist und die Verarbeitung
-                        der Daten durch gesetzliche Vorschriften gestattet ist.
-                    </p>
+            <li class="eachlist"><strong>2. Erfassung und Verarbeitung personenbezogener Daten</strong>
+                <p class="textoflist">Wir, [Name Ihrer Website], erheben und verarbeiten personenbezogene Daten
+                    unserer Nutzer nur, soweit dies zur Bereitstellung einer funktionsfähigen Website sowie unserer
+                    Inhalte und Leistungen erforderlich ist. Die Verarbeitung personenbezogener Daten erfolgt regelmäßig
+                    nur nach Einwilligung des Nutzers. Eine Ausnahme gilt in solchen Fällen, in denen eine vorherige
+                    Einholung einer Einwilligung aus tatsächlichen Gründen nicht möglich ist und die Verarbeitung
+                    der Daten durch gesetzliche Vorschriften gestattet ist.
+                </p>
             </li>
             <li class="eachlist"><strong>3. Datenlöschung und Speicherdauer</strong>
                 <p class="textoflist">Die personenbezogenen Daten der betroffenen Person werden gelöscht oder gesperrt,
