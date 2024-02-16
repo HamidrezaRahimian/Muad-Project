@@ -53,7 +53,7 @@ Es sollen folgende HTML-Elemente verwendet werden.
         done 1 form 0,5
         done 2 label 0,5
         done 3 input, textarea 1
-4 select, option 1
+        done 4 select, option 1
         done 5 button 0,5
 
 
