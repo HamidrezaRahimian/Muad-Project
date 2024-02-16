@@ -58,7 +58,7 @@ Es sollen folgende HTML-Elemente verwendet werden.
 
 
     Nr. Interaktiv | Max. 1 P SOLL IST
-1 details , summary 1
+        1 details , summary 1✅
 
 
 
@@ -106,9 +106,9 @@ Es sollen Formulare mit PHP verarbeitet und die Include-Anweisung genutzt werden
 
 
     Nr. PHP | Max. 12 P SOLL IST
-1 Kontaktformular funktionsfähig (Alle Eingaben angezeigt) 4
+        1 Kontaktformular funktionsfähig (Alle Eingaben angezeigt) 4✅
 2 Weiteres Formular funktionsfähig (Alle Eingaben angezeigt) 4
-3 Include (oder require) mind. 3 mal eingesetzt, um Redundanzen zu vermeiden 4
+        3 Include (oder require) mind. 3 mal eingesetzt, um Redundanzen zu vermeiden 4✅
 
 
 
