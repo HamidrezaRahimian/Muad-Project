@@ -53,7 +53,7 @@ Es sollen folgende HTML-Elemente verwendet werden.
         done 1 form 0,5
         done 2 label 0,5
         done 3 input, textarea 1
-        done 4 select, option 1
+4 select, option 1
         done 5 button 0,5
 
 
@@ -106,9 +106,9 @@ Es sollen Formulare mit PHP verarbeitet und die Include-Anweisung genutzt werden
 
 
     Nr. PHP | Max. 12 P SOLL IST
-        done1 Kontaktformular funktionsfähig (Alle Eingaben angezeigt) 4
+1 Kontaktformular funktionsfähig (Alle Eingaben angezeigt) 4
 2 Weiteres Formular funktionsfähig (Alle Eingaben angezeigt) 4
-        done 3 Include (oder require) mind. 3 mal eingesetzt, um Redundanzen zu vermeiden 4
+3 Include (oder require) mind. 3 mal eingesetzt, um Redundanzen zu vermeiden 4
 
 
 
