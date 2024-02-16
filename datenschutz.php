@@ -21,7 +21,8 @@
                 <p class="textoflist">Verantwortlich im Sinne der Datenschutzgesetze ist:
                     [Name des Verantwortlichen]
                     [Adresse des Verantwortlichen]
-                    [Kontaktinformationen des Verantwortlichen]</p>
+                    [Kontaktinformationen des Verantwortlichen]
+                </p>
             </li>
             <li class="eachlist"><strong>2. Erfassung und Verarbeitung personenbezogener Daten/strong>
                     <p class="textoflist">Wir, [Name Ihrer Website], erheben und verarbeiten personenbezogene Daten
@@ -29,13 +30,15 @@
                         Inhalte und Leistungen erforderlich ist. Die Verarbeitung personenbezogener Daten erfolgt regelmäßig
                         nur nach Einwilligung des Nutzers. Eine Ausnahme gilt in solchen Fällen, in denen eine vorherige
                         Einholung einer Einwilligung aus tatsächlichen Gründen nicht möglich ist und die Verarbeitung
-                        der Daten durch gesetzliche Vorschriften gestattet ist.</p>
+                        der Daten durch gesetzliche Vorschriften gestattet ist.
+                    </p>
             </li>
             <li class="eachlist"><strong>3. Datenlöschung und Speicherdauer</strong>
                 <p class="textoflist">Die personenbezogenen Daten der betroffenen Person werden gelöscht oder gesperrt,
                     sobald der Zweck der Speicherung entfällt. Eine Speicherung kann darüber hinaus erfolgen,
                     wenn dies durch den europäischen oder nationalen Gesetzgeber in Verordnungen, Gesetzen oder
-                    sonstigen Vorschriften, denen der Verantwortliche unterliegt, vorgesehen wurde.</p>
+                    sonstigen Vorschriften, denen der Verantwortliche unterliegt, vorgesehen wurde.
+                </p>
             </li>
             <li class="eachlist"><strong>4. Cookies</strong>
                 <p class="textoflist">Unsere Website verwendet Cookies. Dabei handelt es sich um kleine Textdateien,
@@ -77,6 +80,8 @@
     <footer>
         <?php include "footer.html" ?>
     </footer>
+
+
 
 </body>
 

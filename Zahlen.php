@@ -17,7 +17,6 @@
         <?php include "header.html" ?>
     </header>
 
-
     <nav>
         <?php include "nav.html" ?>
     </nav>
