@@ -31,15 +31,18 @@ Website-URL: [Website-URL einfügen] <br>
 <h3>Verantwortlich:</h3>
 Saskia Stier <br>
 Schloss 11 <br>
-97980 Bad Mergentheim, Germany <br><br>
+97980 Bad Mergentheim, Germany <br>
+8855870 <br><br>
 
 Hamidreza Rahimian  <br>
 Schloss 11 <br>
-97980 Bad Mergentheim, Germany <br><br>
+97980 Bad Mergentheim, Germany <br>
+1478661 <br><br>
 
 Moritz Ungemach<br>
 Schloss 11 <br>
-97980 Bad Mergentheim, Germany <br><br>
+97980 Bad Mergentheim, Germany <br>
+1299169 <br><br>
 
 <h3>Kontakt:</h3>
 <h4>E-Mail:</h4> 
