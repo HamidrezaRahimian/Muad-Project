@@ -12,16 +12,12 @@
 <body>
 
     <header>
-        <h1>Welcome to My Rich Content Website</h1>
+        <?php include "header.html" ?>
     </header>
 
 
     <nav>
-        <a href="index.html">Startseite</a>
-        <a href="grundlage.html">Grundlage</a>
-        <a href="hardware.html">hardware</a>
-        <a href="Zahlung.html">Zahlensysteme</a>
-        <a href="vua.html">Vergleich und Aussagenlogik </a>
+        <?php include "nav.html" ?>
     </nav>
 
     <h2>Zahlensysteme</h2>
@@ -144,7 +140,7 @@
 
             <tr>
 
-                <th>55<sub>10</sub></t>
+                <th>55<sub>10</sub></th>
 
                 <td>0</td>
 
@@ -185,14 +181,14 @@
 
 
 
-    <a href="index.html">Startseite</a>
+    <a href="index.php">Startseite</a>
 
     </section>
 
 
 
     <footer>
-        <p>&copy; 2024 My Rich Content Website. All rights reserved.Muad :D</p>
+        <?php include "footer.html" ?>
     </footer>
 
 </body>
