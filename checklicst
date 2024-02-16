@@ -10,19 +10,19 @@ Es sollen folgende HTML-Elemente verwendet werden.
 
 
     Nr. Überschriften | Max. 1,5 P SOLL IST
-        Done 1 h1 0,5
-2 h2, h3 1
+        Done 1 h1 0,5 
+        Done 2 h2, h3 1
 
 
     Nr. Textstruktur | Max. 3,5 P SOLL IST
-1 done p, pre 1
+        Done 1 p, pre 1
 2 figure, figcaption 1
-3 hr, br 1
-        done 4 div 0,5
+        Done 3 hr, br 1
+        Done 4 div 0,5
 
 
     Nr. Listen | Max. 3 P SOLL IST
-        done 1 ol, ul, li 1,5
+        Done 1 ol, ul, li 1,5
 2 dl, dt, dd 1,5
 
 
