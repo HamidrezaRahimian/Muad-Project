@@ -1,10 +1,7 @@
 <!doctype html>
-<html lang="de" xmlns="http://www.w3.org/1999/html">
+<html lang="de" xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Gästebuch</title>
     <link rel="stylesheet" href="index.css">
 </head>
@@ -22,15 +19,11 @@
 
 
                 <form method="post" action="form.php">
-                        Name:
-                        <label>
-                            <input type="text" name="name">
-                        </label>
+                        <label for="name">Name:</label>
+                            <input type="text" name="name" id="name">
                         <br>
-                        Besucht am:
-                        <label>
-                            <input type="date" name="datum">
-                        </label>
+                    <label for="datum">Besucht am:</label>
+                    <input type="date" name="datum" id="datum">
                         <br>
                     <label for="art"> Art:</label>
                     <select name="art" id="art"> <!-- 4 -->
@@ -39,10 +32,10 @@
                         <option value="Sonstiges">Sonstiges</option>
                     </select>
                     <br>
-                        Text:
-                        <label>
-                            <textarea name="eintrag" id="nachricht" cols="30" rows="10"></textarea>
-                        </label>
+
+                    <label for="eintrag">Text:</label>
+                            <textarea name="eintrag" id="eintrag" cols="30" rows="10"></textarea>
+
                         <br>
                     <button type="submit">Absenden</button>
                 </form>
@@ -75,8 +68,10 @@
                 }
             }
         ?>
-    <Strong>Einträge</Strong>
+
         <div class="flex-container">
+            <Strong>Einträge:<br></Strong>
+            
             <?php
             $zitate = file("Datei");
             for ($i = 0; $i < count($zitate); $i++) {
