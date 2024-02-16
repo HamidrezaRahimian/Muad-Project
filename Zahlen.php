@@ -11,6 +11,8 @@
 
 <body>
 
+
+
     <header>
         <?php include "header.html" ?>
     </header>
@@ -19,156 +21,163 @@
     <nav>
         <?php include "nav.html" ?>
     </nav>
+    <section>
 
-    <h2>Zahlensysteme</h2>
+        <h2>Zahlensysteme</h2>
 
 
 
-    <table>
+        <table>
 
-        <thead>
+            <thead>
 
-            <tr>
+                <tr>
 
-                <th>Dezimalwert</th>
+                    <th>Dezimalwert</th>
 
-                <th colspan="8">Exponent zur Basis 2</th>
+                    <th colspan="8">Exponent zur Basis 2</th>
 
-                <th>Binärzahl</th>
+                    <th>Binärzahl</th>
 
-            </tr>
+                </tr>
 
-        </thead>
+            </thead>
 
-        <tbody>
+            <tbody>
 
-            <tr>
+                <tr>
 
-                <td></td>
+                    <td></td>
 
-                <td>7</td>
+                    <td>7</td>
 
-                <td>6</td>
+                    <td>6</td>
 
-                <td>5</td>
+                    <td>5</td>
 
-                <td>4</td>
+                    <td>4</td>
 
-                <td>3</td>
+                    <td>3</td>
 
-                <td>2</td>
+                    <td>2</td>
 
-                <td>1</td>
+                    <td>1</td>
 
-                <td>0</td>
+                    <td>0</td>
 
-                <td></td>
+                    <td></td>
 
-            </tr>
+                </tr>
 
-            <tr>
+                <tr>
 
-                <td></td>
+                    <td></td>
 
-                <td>128</td>
+                    <td>128</td>
 
-                <td>64</td>
+                    <td>64</td>
 
-                <td>32</td>
+                    <td>32</td>
 
-                <td>16</td>
+                    <td>16</td>
 
-                <td>8</td>
+                    <td>8</td>
 
-                <td>4</td>
+                    <td>4</td>
 
-                <td>2</td>
+                    <td>2</td>
 
-                <td>1</td>
+                    <td>1</td>
 
-                <td></td>
+                    <td></td>
 
-            </tr>
+                </tr>
 
-            <tr>
+                <tr>
 
-                <th>222<sub>10</sub></th>
+                    <th>222<sub>10</sub></th>
 
-                <td>1</td>
+                    <td>1</td>
 
-                <td>1</td>
+                    <td>1</td>
 
-                <td>0</td>
+                    <td>0</td>
 
-                <td>1</td>
+                    <td>1</td>
 
-                <td>1</td>
+                    <td>1</td>
 
-                <td>1</td>
+                    <td>1</td>
 
-                <td>1</td>
+                    <td>1</td>
 
-                <td>0</td>
+                    <td>0</td>
 
-                <td>11011110<sub>2</sub></td>
+                    <td>11011110<sub>2</sub></td>
 
-            </tr>
+                </tr>
 
-            <tr>
+                <tr>
 
-                <th>111<sub>10</sub></th>
+                    <th>111<sub>10</sub></th>
 
-                <td>0</td>
+                    <td>0</td>
 
-                <td>1</td>
+                    <td>1</td>
 
-                <td>1</td>
+                    <td>1</td>
 
-                <td>0</td>
+                    <td>0</td>
 
-                <td>1</td>
+                    <td>1</td>
 
-                <td>1</td>
+                    <td>1</td>
 
-                <td>1</td>
+                    <td>1</td>
 
-                <td>1</td>
+                    <td>1</td>
 
-                <td>01101111<sub>2</sub></td>
+                    <td>01101111<sub>2</sub></td>
 
-            </tr>
+                </tr>
 
-            <tr>
+                <tr>
 
-                <th>55<sub>10</sub></th>
+                    <th>55<sub>10</sub></th>
 
-                <td>0</td>
+                    <td>0</td>
 
-                <td>0</td>
+                    <td>0</td>
 
-                <td>1</td>
+                    <td>1</td>
 
-                <td>1</td>
+                    <td>1</td>
 
-                <td>0</td>
+                    <td>0</td>
 
-                <td>1</td>
+                    <td>1</td>
 
-                <td>1</td>
+                    <td>1</td>
 
-                <td>1</td>
+                    <td>1</td>
 
-                <td>00110111<sub>2</sub></td>
+                    <td>00110111<sub>2</sub></td>
 
-            </tr>
+                </tr>
 
-        </tbody>
+            </tbody>
 
-    </table>
+        </table>
 
 
 
-    <h3>Umrechnung von Dezimal zu Binär</h3>
+        <h3>Umrechnung von Dezimal zu Binär</h3>
+        <p class="textoflist">Die Umrechnung von Dezimal zu Binär ist ein grundlegender Schritt in der Informatik und Programmierung.
+            Dabei wird eine Dezimalzahl, die im Zehnersystem geschrieben ist, in ihre binäre Darstellung umgewandelt,
+            die aus Nullen und Einsen besteht. Der Prozess beinhaltet das wiederholte Teilen der Dezimalzahl durch
+            2 und das Festhalten der Reste in umgekehrter Reihenfolge. Dieser Vorgang setzt sich fort, bis die
+            Dezimalzahl auf null reduziert ist. Das Ergebnis ist die Binärdarstellung der ursprünglichen Dezimalzahl. Diese Umrechnung ist besonders wichtig in der digitalen Welt, in der Computer und elektronische Systeme mit Binärzahlen arbeiten. Es ist eine grundlegende Fertigkeit, die für das Verständnis von Datenverarbeitung und Codierung von wesentlicher Bedeutung ist.
+        </p>
 
 
 
@@ -180,8 +189,7 @@
 
 
 
-
-    <a href="index.php">Startseite</a>
+        <a href="index.php">Startseite</a>
 
     </section>
 

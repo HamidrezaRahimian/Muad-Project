@@ -50,11 +50,11 @@ Es sollen folgende HTML-Elemente verwendet werden.
 
 
     Nr. Formulare | Max. 3,5 P SOLL IST
-1 form 0,5
-2 label 0,5
-3 input, textarea 1
+        done 1 form 0,5
+        done 2 label 0,5
+        done 3 input, textarea 1
 4 select, option 1
-5 button 0,5
+        done 5 button 0,5
 
 
     Nr. Interaktiv | Max. 1 P SOLL IST
