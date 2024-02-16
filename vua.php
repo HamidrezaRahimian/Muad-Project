@@ -11,17 +11,15 @@
 
 <body>
 
+
+
     <header>
-         <?php include "header.html" ?>
+        <?php include "header.html" ?>
     </header>
-
-
 
     <nav>
         <?php include "nav.html" ?>
     </nav>
-
-
     <section>
         <h2>Zeichencodenummern der Operatoren</h2>
         <table>
@@ -108,53 +106,7 @@
 
 
 
-        <!DOCTYPE html>
 
-        <html lang="de">
-
-        <head>
-
-            <meta charset="UTF-8">
-
-            <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-            <title>logischer Ausdruck</title>
-
-            <style>
-                body {
-
-                    font-family: 'Arial', sans-serif;
-
-                    margin: 20px;
-
-                }
-
-
-
-                .expression {
-
-                    font-size: 18px;
-
-                    margin-top: 20px;
-
-                    background-color: #fff;
-
-                    padding: 10px;
-
-                    border-radius: 5px;
-
-                    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-
-                }
-            </style>
-
-        </head>
-
-        <body>
-
-
-
-        </body>
         <a href="index.php">Startseite</a>
 
     </section>
