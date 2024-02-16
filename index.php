@@ -33,15 +33,17 @@
         modernen
         Welt.
       </p>
-      <div class="images">
-        <img class="image1" src="img/img1.jpg" alt="">
-      </div>
-
+        <aside>
+            <div class="images">
+                 <img class="image1" src="img/img1.jpg" alt="">
+             </div>
+        </aside>
     </div>
     <div class="flex-container">
       <div class="images">
         <img class="image2" src="img/img3.jpg" alt="">
       </div>
+        <aside>
       <p class="text-box1">
         Von der Grundlage binärer Codes bis zur fortschrittlichen künstlichen Intelligenz ermöglichen Computer eine
         breite
@@ -55,7 +57,7 @@
         wie
         Wirtschaft, Gesundheitswesen und Bildung erkunden und verstehen, wie sie unsere Zukunft formt.
       </p>
-
+        </aside>
     </div>
     <div class="flex-container">
       <p class="text-box">
@@ -72,10 +74,11 @@
         Muad
 
       </p>
-
+<aside>
       <div class="images">
         <img class="image4" src="img/img4.jpg" alt="">
       </div>
+</aside>
     </div>
 
 
