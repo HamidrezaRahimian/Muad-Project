@@ -32,12 +32,19 @@
                             <input type="date" name="datum">
                         </label>
                         <br>
-                        Feedback:
+                    <label for="art"> Art:</label>
+                    <select name="art" id="art"> <!-- 4 -->
+                        <option value="Feedback">Feedback</option>
+                        <option value="Frage">Frage</option>
+                        <option value="Sonstiges">Sonstiges</option>
+                    </select>
+                    <br>
+                        Text:
                         <label>
-                            <input type="text" name="eintrag">
+                            <textarea name="eintrag" id="nachricht" cols="30" rows="10"></textarea>
                         </label>
                         <br>
-                        <input type="submit" value="Eintragen">
+                    <button type="submit">Absenden</button>
                 </form>
     </div>
         <?php
@@ -47,8 +54,9 @@
                 $name = htmlspecialchars($_POST['name']);
                 $datum = htmlspecialchars($_POST['datum']);
                 $eintrag = htmlspecialchars($_POST['eintrag']);
-                $user_info = array($name, $datum, $eintrag);
-                if (!empty($name) and !empty($datum) and !empty($eintrag)) {
+                $art = htmlspecialchars($_POST["art"]);
+                $user_info = array($name, $datum, $eintrag,$art);
+                if (!empty($name) and !empty($datum) and !empty($eintrag) and !empty($art)) {
                     $daten = implode(";", $user_info) . "\r\n";
                     $zitate = file("Datei");
                     for ($i = 0; $i < count($zitate); $i++) {
