@@ -1,0 +1,172 @@
+
+HTML (26 Punkte)
+Es sollen folgende HTML-Elemente verwendet werden.
+
+
+    Nr. Seitenstrukturierung | Max. 3,5 P SOLL IST
+        Done 1 header, nav, footer 1,5   D
+2 main, article, section 1,5
+3 aside 0,5
+
+
+    Nr. Überschriften | Max. 1,5 P SOLL IST
+        Done 1 h1 0,5
+2 h2, h3 1
+
+
+    Nr. Textstruktur | Max. 3,5 P SOLL IST
+1 done p, pre 1
+2 figure, figcaption 1
+3 hr, br 1
+        done 4 div 0,5
+
+
+    Nr. Listen | Max. 3 P SOLL IST
+        done 1 ol, ul, li 1,5
+2 dl, dt, dd 1,5
+
+
+    Nr. Textauszeichnung | Max. 2 P SOLL IST
+        done 1 a 0,5
+2 em, strong 1
+3 span 0,5
+
+
+    Nr. Text | Max. 1 P SOLL IST
+1 blockquote 0,5
+2 abbr 0,5
+
+
+    Nr. Tabelle | Max. 4 P SOLL IST
+1 table, thead, tbody, tfoot 2
+        done 2 tr, th, td 1,5
+3 caption 0,5
+
+
+    Nr. Multimedia und Grafiken | Max. 3 P SOLL IST
+        done 1 img 0,5
+2 svg, iframe 1
+3 audio, video, source 1,5
+
+
+    Nr. Formulare | Max. 3,5 P SOLL IST
+1 form 0,5
+2 label 0,5
+3 input, textarea 1
+4 select, option 1
+5 button 0,5
+
+
+    Nr. Interaktiv | Max. 1 P SOLL IST
+1 details , summary 1
+
+
+
+
+
+CSS (30 Punkte)
+Es sollen bestimmte Selektoren und Positionierungsmethoden verwendet werden. Zudem
+sollen Formulare und Tabelle gestaltet und mindestens eine Schriftart eingebunden werden
+(lokal, also ohne Internetverbindung).
+
+
+    Nr. Selektoren | Max. 11 P SOLL IST
+1 Elementselektor 1
+2 Klassenselektor 1
+3 ID-Selektor 1
+4 Attributselektor 1
+5 Pseudoklasse (mind. 2 Arten) 2
+6 Pseudoelemente (mind. 2 Arten) 2
+7 Kombinator (mind. 3 Arten) 3
+
+
+    Nr. Positionierung | Max. 8 P SOLL IST
+1 relative 2
+2 absolute 2
+3 sticky 2
+4 fixed 2
+
+
+    Nr. Einbindung | Max. 5 P SOLL IST
+1 @font-face (Schriftart lokal) 2
+2 Favicon (selbst gestaltet) 3
+
+
+    Nr. Gestaltung | Max. 6 P SOLL IST
+1 Tabellen 3
+2 Formulare 3
+
+
+
+
+
+
+PHP (12 Punkte)
+Es sollen Formulare mit PHP verarbeitet und die Include-Anweisung genutzt werden.
+
+
+    Nr. PHP | Max. 12 P SOLL IST
+1 Kontaktformular funktionsfähig (Alle Eingaben angezeigt) 4
+2 Weiteres Formular funktionsfähig (Alle Eingaben angezeigt) 4
+3 Include (oder require) mind. 3 mal eingesetzt, um Redundanzen zu vermeiden 4
+
+
+
+
+Eindruck (28 Punkte)
+Die Webseite soll responsive sein, sinnvolle Texte enthalten und eine logisch aufgebaute
+Benutzeroberfläche haben.
+
+
+    Nr. Inhaltliches | Max. 5 P SOLL IST
+1 Sinnvoller Text und sinnvoller Aufbau der Webseite
+(Kein Blindtext | Zum Thema passende Texte | Footer und Datenschutz vorhanden) 5
+
+
+Nr. Layout | Max. 17 P SOLL IST
+1 Mehrspaltiges Layout (Responsive Design)
+(Max: 1920 x 1080 | Min: Mindestbreite Google Chrome. Tabellen auch responsive ohne zu scrollen!) 10
+2 Einheitliches Layout (nicht von Seite zu Seite anders) 3
+3 Bündige Linien, alles sichtbar bei 100% 3
+4 Impressum und Datenschutz im Footer (nicht Header) 1
+
+
+    Nr. Benutzeroberfläche | Max. 6 P SOLL IST
+1 Logo mit Verknüpfung zur Startseite 1
+2 Einheitliche Beschriftungen und nachvollziehbare Navigation 2
+3 Pflichtfelder hervorgehoben (z.B. durch *) 1
+4 Funktionale Labels bei Eingabefeldern
+(Klick auf Text soll z.B. Checkbox aktivieren oder zu Eingabefeld führen) 2
+
+
+
+
+
+
+
+
+Negatives (Max 55P)
+Bei der Erstellung des Projekts sollen bestimmte Rahmenbedingungen beachtet werden.
+Zudem sollen Fehler vermieden und eine möglichst gute Usability bereitgestellt werden.
+Nr. Konfiguration | Max. -10 P MAX IST
+1 Konfigurationsaufwand, um lauffähig zu sein.
+(Beispiele: Notwendigkeit das Projekt in einem ganz bestimmten Verzeichnis zu haben) -5
+2 Mediendateien lassen sich nicht abspielen
+(Häufiger Grund: Absoluter Pfad oder falscher relativer Pfad) -5
+Nr. Fehler | Max. -25 P MAX IST
+1 Syntaxfehler bei HTML (-1P pro Fehlertyp)
+(Hinweis: Auch bei Impressum und Datenschutz! ONLINE-VALIDATOR nutzen! Wichtig: Dozent prüft Fehler
+nicht, sondern zählt lediglich. Sollte es Fehler geben, die keine sind, bitte als Hinweis in readme.txt)
+-14
+2 Hinweise oder Fehler bei PHP (-2P pro Fehler) -6
+3 Links / Menüeinträge funktionieren nicht (-1P pro Link) -5
+Nr. Ordnerstruktur und Dateinamen | Max. -10 P MAX IST
+1 Datei- und Ordnerstruktur nicht eingehalten (-1P pro Datei / Ordner)
+(In der ZIP-Datei darf zudem kein Unterordner mit dem Projekt sein! SEHR HÄUFIG IGNORIERT!) -5
+2 Dateinamen haben: Großbuchstaben, Leerzeichen, Umlaute, Sonderzeichen
+(Bitte auch bei Bildern, Medien und Schriftarten! Minuszeichen möglich. -1P pro Datei / Ordner) -5
+Nr. Sonstiges | Max. -10 P MAX IST
+1 Hohe Ladezeiten
+(z.B. weil Bilder mit mehr als 5 MB geladen werden müssen) -5
+2 Schlecht formatierter Quelltext
+(Einheitlich verschachtelt ► Empfehlung: Code Beautifier. Kein Wechsel z.B. zwischen <br> und <br />) -5
