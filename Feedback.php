@@ -34,7 +34,7 @@
                         <br>
                     <label for="art"> Art:</label>
                     <select name="art" id="art"> <!-- 4 -->
-                        <option value="Frage">Frage</option>
+                        <option value="Feedback">Feedback</option>
                         <option value="Sonstiges">Sonstiges</option>
                     </select>
                     <br>
