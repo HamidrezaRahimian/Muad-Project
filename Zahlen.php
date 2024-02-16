@@ -46,9 +46,22 @@
                     <td>1</td>
                     <td>0</td>
                     <td></td>
-
                 </tr>
                 <tr>
+                    <<<<<<< HEAD=======<td>
+                        </td>
+                        <td>128</td>
+                        <td>64</td>
+                        <td>32</td>
+                        <td>16</td>
+                        <td>8</td>
+                        <td>4</td>
+                        <td>2</td>
+                        <td>1</td>
+                        <td></td>
+                </tr>
+                <tr>
+                    >>>>>>> 95d49c25ff72548b3bd7dde0b3a14dc537834de1
                     <th>222<sub>10</sub></th>
                     <td>1</td>
                     <td>1</td>
@@ -85,6 +98,28 @@
                     <td>00110111<sub>2</sub></td>
                 </tr>
             </tbody>
+            <tfoot>
+                <td></td>
+
+                <td>128</td>
+
+                <td>64</td>
+
+                <td>32</td>
+
+                <td>16</td>
+
+                <td>8</td>
+
+                <td>4</td>
+
+                <td>2</td>
+
+                <td>1</td>
+
+                <td></td>
+
+            </tfoot>
 
         </table>
 
