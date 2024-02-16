@@ -53,7 +53,7 @@ Die bereitgestellten Inhalte auf dieser Website dienen ausschließlich Unterhalt
 Wir übernehmen keine Gewähr für die Vollständigkeit, Richtigkeit, Verlässlichkeit, Eignung oder Verfügbarkeit der Informationen, <br>
 Produkte, Dienstleistungen oder zugehörigen Grafiken auf der Website für irgendeinen Zweck. <br>
 Jegliches Vertrauen, das du in solche Informationen setzt, geschieht daher auf eigene Gefahr. <br>
-
+ c
 <h3>Geistiges Eigentum:</h3>
 Alle geistigen Eigentumsrechte für die Inhalte und Materialien auf dieser Website, einschließlich, aber nicht beschränkt auf Texte, <br>
 Grafiken, Logos, Bilder, Audio-Clips, digitale Downloads und Software, sind im Besitz von Moritz, Alex und Saskia <br>
