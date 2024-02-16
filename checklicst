@@ -4,21 +4,21 @@ Es sollen folgende HTML-Elemente verwendet werden.
 
 
     Nr. Seitenstrukturierung | Max. 3,5 P SOLL IST
-        Done 1 header, nav, footer 1,5   D
+        Done 1 header, nav, footer 1,5   ✅
 2 main, article, section 1,5
 3 aside 0,5
 
 
-    Nr. Überschriften | Max. 1,5 P SOLL IST
-        Done 1 h1 0,5 
-        Done 2 h2, h3 1
+    Nr. Überschriften | Max. 1,5 P SOLL IST ✅
+        Done 1 h1 0,5✅
+        2 h2, h3 1   ✅
 
 
     Nr. Textstruktur | Max. 3,5 P SOLL IST
-        Done 1 p, pre 1
+        1 done p, pre 1✅
 2 figure, figcaption 1
-        Done 3 hr, br 1
-        Done 4 div 0,5
+3 hr, br 1
+        done 4 div 0,5✅
 
 
     Nr. Listen | Max. 3 P SOLL IST
@@ -37,9 +37,9 @@ Es sollen folgende HTML-Elemente verwendet werden.
 2 abbr 0,5
 
 
-    Nr. Tabelle | Max. 4 P SOLL IST
-1 table, thead, tbody, tfoot 2
-        done 2 tr, th, td 1,5
+    Nr. Tabelle | Max. 4 P SOLL IST  
+        done 1 table, thead, tbody, tfoot 2✅
+        done 2 tr, th, td 1,5✅
 3 caption 0,5
 
 
@@ -53,7 +53,7 @@ Es sollen folgende HTML-Elemente verwendet werden.
         done 1 form 0,5
         done 2 label 0,5
         done 3 input, textarea 1
-4 select, option 1
+        done 4 select, option 1
         done 5 button 0,5
 
 
