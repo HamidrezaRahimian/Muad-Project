@@ -75,17 +75,23 @@
                 }
             }
         ?>
-    <Strong>Einträge</Strong>
+
         <div class="flex-container">
-            <?php
-            $zitate = file("Datei");
-            for ($i = 0; $i < count($zitate); $i++) {
-                echo $i+1 . ": " . $zitate[$i] . "<br><br>";
 
-        }
+            <details>
+                <summary><Strong>Einträge</Strong></summary>
+                <p><?php
+                    $zitate = file("Datei");
+                    for ($i = 0; $i < count($zitate); $i++) {
+                        echo $i+1 . ": " . $zitate[$i] . "<br><br>";
+
+                    }
 
 
-        ?>
+                    ?></p>
+            </details>
+
+
         </div>
 </section>
 
