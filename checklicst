@@ -27,8 +27,8 @@ Es sollen folgende HTML-Elemente verwendet werden.
 
 
     Nr. Textauszeichnung | Max. 2 P SOLL IST
-        done 1 a 0,5
-2 em, strong 1
+        done 1 a 0,5✅
+        2 em, strong 1✅
 3 span 0,5
 
 
