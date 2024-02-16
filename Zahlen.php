@@ -48,7 +48,7 @@
                     <td></td>
                 </tr>
                 <tr>
-                    <<<<<<< HEAD=======<td>
+                    <td>
                         </td>
                         <td>128</td>
                         <td>64</td>
@@ -61,7 +61,6 @@
                         <td></td>
                 </tr>
                 <tr>
-                    >>>>>>> 95d49c25ff72548b3bd7dde0b3a14dc537834de1
                     <th>222<sub>10</sub></th>
                     <td>1</td>
                     <td>1</td>
