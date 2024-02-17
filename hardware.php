@@ -17,8 +17,8 @@
     <?php include "nav.html" ?>
 </nav>
 <section>
-    <h1>Hardware
-    </h1>
+    <h2>Hardware
+    </h2>
     <ul class="listofdata">
         <li class="eachlist"><strong>Hauptplatine:</strong>
             <p class="textoflist"> Die Hauptplatine, auch als <em>Motherboard bekannt</em>, ist die zentrale Platine eines

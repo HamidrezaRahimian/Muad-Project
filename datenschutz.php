@@ -10,13 +10,13 @@
 </head>
 
 <body>
-    <header>
-        <?php include "header.html" ?>
-    </header>
+<header>
+    <?php include "header.html" ?>
+</header>
 
-    <nav>
-        <?php include "nav.html" ?>
-    </nav>
+<nav>
+    <?php include "nav.html" ?>
+</nav>
 <main>
     <section>
         <h2>Datenschutzerklärung </h2>
@@ -79,12 +79,12 @@
 
 
 
-        <a href="index.php">Startseite</a>
-    </section>
+<a href="index.php">Startseite</a>
+</section>
 
-    <footer>
-        <?php include "footer.html" ?>
-    </footer>
+<footer>
+    <?php include "footer.html" ?>
+</footer>
 
 
 

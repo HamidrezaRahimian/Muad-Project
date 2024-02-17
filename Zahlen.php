@@ -134,7 +134,7 @@
     <h3>
         Erläuterung
     </h3>
-    <p>
+
     <dl>
         <dt>XXX<span style="color: #c0392b"><sub>10</sub></span></dt>
         <dd>Die Zahl wird in 10er Zahlensystem angegeben</dd>

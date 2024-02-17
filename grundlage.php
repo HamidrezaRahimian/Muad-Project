@@ -22,11 +22,11 @@
     <section>
 
 
-        <h1>Grundlagen</h1>
+        <h2>Grundlagen</h2>
         <ul class="listofdata">
             <li class="eachlist"> <strong>Ein Bit</strong>
                 <p class="textoflist"><blockquote cite="https://www.ionos.de/digitalguide/websites/web-entwicklung/was-ist-ein-bit/">
-                    Bit“ steht für binary digit und ist die kleinste binäre Informationseinheit. Damit ist sie die Basis für alle größeren Dateneinheiten der Digitaltechnik. Kleiner als Bit geht nicht, denn ein Bit kann entweder den Zustand 1 oder 0 abbilden. </p>
+                    Bit“ steht für binary digit und ist die kleinste binäre Informationseinheit. Damit ist sie die Basis für alle größeren Dateneinheiten der Digitaltechnik. Kleiner als Bit geht nicht, denn ein Bit kann entweder den Zustand 1 oder 0 abbilden.
                 </blockquote>
             </li>
             <li class="eachlist"><strong>Ein Byte</strong>
