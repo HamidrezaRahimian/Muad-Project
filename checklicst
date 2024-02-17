@@ -118,25 +118,26 @@ Die Webseite soll responsive sein, sinnvolle Texte enthalten und eine logisch au
 Benutzeroberfläche haben.
 
 
-    Nr. Inhaltliches | Max. 5 P SOLL IST
-1 Sinnvoller Text und sinnvoller Aufbau der Webseite
-(Kein Blindtext | Zum Thema passende Texte | Footer und Datenschutz vorhanden) 5
+    Nr. Inhaltliches | Max. 5 P SOLL IST✅
+      1 Sinnvoller Text und sinnvoller Aufbau der Webseite✅
+(    Kein Blindtext | Zum Thema passende Texte | Footer und Datenschutz vorhanden) 5
 
 
 Nr. Layout | Max. 17 P SOLL IST
 1 Mehrspaltiges Layout (Responsive Design)
 (Max: 1920 x 1080 | Min: Mindestbreite Google Chrome. Tabellen auch responsive ohne zu scrollen!) 10
-2 Einheitliches Layout (nicht von Seite zu Seite anders) 3
-3 Bündige Linien, alles sichtbar bei 100% 3
-4 Impressum und Datenschutz im Footer (nicht Header) 1
+        2 Einheitliches Layout (nicht von Seite zu Seite anders) 3✅
+        3 Bündige Linien, alles sichtbar bei 100% 3✅
+        4 Impressum und Datenschutz im Footer (nicht Header) 1✅
 
 
     Nr. Benutzeroberfläche | Max. 6 P SOLL IST
 1 Logo mit Verknüpfung zur Startseite 1
-2 Einheitliche Beschriftungen und nachvollziehbare Navigation 2
-3 Pflichtfelder hervorgehoben (z.B. durch *) 1
-4 Funktionale Labels bei Eingabefeldern
-(Klick auf Text soll z.B. Checkbox aktivieren oder zu Eingabefeld führen) 2
+        2 Einheitliche Beschriftungen und nachvollziehbare Navigation 2✅
+        3 Pflichtfelder hervorgehoben (z.B. durch *) 1✅
+        4 Funktionale Labels bei Eingabefeldern✅
+        4 Funktionale Labels bei Eingabefeldern✅
+        (Klick auf Text soll z.B. Checkbox aktivieren oder zu Eingabefeld führen) 2✅
 
 
 

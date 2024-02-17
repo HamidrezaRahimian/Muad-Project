@@ -22,26 +22,22 @@
 
 
                 <form method="post" action="form.php">
-                        Name:
-                        <label>
-                            <input type="text" name="name">
-                        </label>
+                    <label for="name">Name:</label>
+                    <input type="text" name="name" id="name">
                         <br>
-                        Besucht am:
-                        <label>
-                            <input type="date" name="datum">
-                        </label>
+                    <label for="datum">Besucht am:</label><input type="date" name="datum" id="datum">
+
                         <br>
                     <label for="art"> Art:</label>
                     <select name="art" id="art"> <!-- 4 -->
+                        <option value="Feedback">Feedback</option>
                         <option value="Frage">Frage</option>
                         <option value="Sonstiges">Sonstiges</option>
                     </select>
                     <br>
-                        Text:
-                        <label>
-                            <textarea name="eintrag" id="nachricht" cols="30" rows="10"></textarea>
-                        </label>
+                    <label for="nachricht">Text:</label>
+                    <textarea name="eintrag" id="nachricht" cols="30" rows="10"></textarea>
+
                         <br>
                     <button type="submit">Absenden</button>
                 </form>
