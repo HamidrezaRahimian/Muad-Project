@@ -25,9 +25,9 @@
         <h1>Grundlagen</h1>
         <ul class="listofdata">
             <li class="eachlist"> <strong>Ein Bit</strong>
-                <p class="textoflist">Die Kombination von Bits bildet Bytes, die für die Darstellung von Daten in
-                    Computern verwendet werden. Die Dualität von 0 und 1 im Binärsystem bildet die Grundlage für die
-                    digitale Informationscodierung.</p>
+                <p class="textoflist"><blockquote cite="https://www.ionos.de/digitalguide/websites/web-entwicklung/was-ist-ein-bit/">
+                    Bit“ steht für binary digit und ist die kleinste binäre Informationseinheit. Damit ist sie die Basis für alle größeren Dateneinheiten der Digitaltechnik. Kleiner als Bit geht nicht, denn ein Bit kann entweder den Zustand 1 oder 0 abbilden. </p>
+                </blockquote>
             </li>
             <li class="eachlist"><strong>Ein Byte</strong>
                 <p class="textoflist">Besteht aus 8 Bits und repräsentiert grundlegende Dateneinheiten in der digitalen

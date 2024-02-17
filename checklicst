@@ -29,18 +29,18 @@ Es sollen folgende HTML-Elemente verwendet werden.
     Nr. Textauszeichnung | Max. 2 P SOLL IST
         done 1 a 0,5✅
         2 em, strong 1✅
-3 span 0,5
+        3 span 0,5✅
 
 
-    Nr. Text | Max. 1 P SOLL IST
-1 blockquote 0,5
-2 abbr 0,5
+    Nr. Text | Max. 1 P SOLL IST✅
+        1 blockquote 0,5✅
+        2 abbr 0,5✅
 
 
     Nr. Tabelle | Max. 4 P SOLL IST  
         done 1 table, thead, tbody, tfoot 2✅
         done 2 tr, th, td 1,5✅
-3 caption 0,5
+        3 caption 0,5✅
 
 
     Nr. Multimedia und Grafiken | Max. 3 P SOLL IST
@@ -71,9 +71,9 @@ sollen Formulare und Tabelle gestaltet und mindestens eine Schriftart eingebunde
 
 
     Nr. Selektoren | Max. 11 P SOLL IST
-1 Elementselektor 1
-2 Klassenselektor 1
-3 ID-Selektor 1
+        1 Elementselektor 1✅
+        2 Klassenselektor 1✅
+        3 ID-Selektor 1✅
 4 Attributselektor 1
 5 Pseudoklasse (mind. 2 Arten) 2
 6 Pseudoelemente (mind. 2 Arten) 2
