@@ -19,7 +19,7 @@
         <?php include "nav.html" ?>
     </nav>
 
-
+<main>
     <section>
 
   <h2>Impressum</h2>  
@@ -77,6 +77,7 @@ Es liegt in deiner Verantwortung, diese Seite regelmäßig auf Änderungen zu ü
  16.02.2024
           <a href="index.php">Startseite</a>
     </section>
+</main>
     <footer>
         <?php include "footer.html" ?>
     </footer>

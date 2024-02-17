@@ -17,7 +17,7 @@
     <nav>
         <?php include "nav.html" ?>
     </nav>
-
+<main>
     <section>
         <h2>Datenschutzerklärung </h2>
         <ul class="listofdata">
@@ -68,6 +68,7 @@
                     diese Datenschutzerklärung regelmäßig zu lesen.</p>
 
         </ul>
+</main>
 
 
 
