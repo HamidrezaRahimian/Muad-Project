@@ -130,15 +130,16 @@
             2 und das Festhalten der Reste in umgekehrter Reihenfolge. Dieser Vorgang setzt sich fort, bis die
             Dezimalzahl auf null reduziert ist. Das Ergebnis ist die Binärdarstellung der ursprünglichen Dezimalzahl. Diese Umrechnung ist besonders wichtig in der digitalen Welt, in der Computer und elektronische Systeme mit Binärzahlen arbeiten. Es ist eine grundlegende Fertigkeit, die für das Verständnis von Datenverarbeitung und Codierung von wesentlicher Bedeutung ist.
         </p>
-
-
-
-
-
-
-
-
-
+    <h3>
+        Erläuterung
+    </h3>
+<p>
+        <dl>
+            <dt>XXX<sub>10</sub></dt>
+            <dd>Die Zahl wird in 10er Zahlensystem angegeben</dd>
+            <dt>XXX<sub>2</sub></dt>
+            <dd>Die Zahl wird im 2er Zahlensytem(Binär) angegeben</dd>
+        </dl>
 
 
         <a href="index.php">Startseite</a>

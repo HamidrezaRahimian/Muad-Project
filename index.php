@@ -34,15 +34,17 @@
         Welt.
       </p>
         <aside>
-            <div class="images">
+            <figure class="images">
                  <img class="image1" src="img/img1.jpg" alt="">
-             </div>
+                 <figcaption>[Img1]</figcaption>
+            </figure>
         </aside>
     </div>
     <div class="flex-container">
-      <div class="images">
+      <figure class="images">
         <img class="image2" src="img/img3.jpg" alt="">
-      </div>
+        <figcaption>[Img2]</figcaption>
+      </figure>
         <aside>
       <p class="text-box1">
         Von der Grundlage binärer Codes bis zur fortschrittlichen künstlichen Intelligenz ermöglichen Computer eine
@@ -75,9 +77,10 @@
 
       </p>
 <aside>
-      <div class="images">
+      <figure class="images">
         <img class="image4" src="img/img4.jpg" alt="">
-      </div>
+        <figcaption>[Img3]</figcaption>
+      </figure>
 </aside>
     </div>
 
