@@ -135,9 +135,9 @@
     </h3>
 <p>
         <dl>
-            <dt>XXX<sub>10</sub></dt>
+            <dt>XXX<span style="color: #c0392b"><sub>10</sub></span></dt>
             <dd>Die Zahl wird in 10er Zahlensystem angegeben</dd>
-            <dt>XXX<sub>2</sub></dt>
+            <dt>XXX<span style="color: #c0392b"><sub>2</sub></span></dt>
             <dd>Die Zahl wird im 2er Zahlensytem(Binär) angegeben</dd>
         </dl>
 

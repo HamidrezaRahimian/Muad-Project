@@ -21,9 +21,9 @@ Es sollen folgende HTML-Elemente verwendet werden.
         done 4 div 0,5✅
 
 
-    Nr. Listen | Max. 3 P SOLL IST
-        Done 1 ol, ul, li 1,5
-2 dl, dt, dd 1,5
+    Nr. Listen | Max. 3 P SOLL IST✅
+        Done 1 ol, ul, li 1,5✅
+        2 dl, dt, dd 1,5✅
 
 
     Nr. Textauszeichnung | Max. 2 P SOLL IST
