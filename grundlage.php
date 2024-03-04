@@ -4,16 +4,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Rich Content Website</title>
+    <title>Digitalisierung</title>
     <link rel="stylesheet" href="index.css">
 
 </head>
 
 <body>
 
-<header>
-    <?php include "header.html" ?>
-</header>
+    <header>
+        <?php include "header.html" ?>
+    </header>
 
     <nav>
         <?php include "nav.html" ?>
@@ -25,8 +25,10 @@
         <h2>Grundlagen</h2>
         <ul class="listofdata">
             <li class="eachlist"> <strong>Ein Bit</strong>
-                <p class="textoflist"><blockquote cite="https://www.ionos.de/digitalguide/websites/web-entwicklung/was-ist-ein-bit/">
-                    Bit“ steht für binary digit und ist die kleinste binäre Informationseinheit. Damit ist sie die Basis für alle größeren Dateneinheiten der Digitaltechnik. Kleiner als Bit geht nicht, denn ein Bit kann entweder den Zustand 1 oder 0 abbilden.
+                <blockquote cite="https://www.ionos.de/digitalguide/websites/web-entwicklung/was-ist-ein-bit/">
+                    <p class="textoflistB">
+                        "Bit“ steht für binary digit und ist die kleinste binäre Informationseinheit. Damit ist sie die Basis für alle größeren Dateneinheiten der Digitaltechnik. Kleiner als Bit geht nicht, denn ein Bit kann entweder den Zustand 1 oder 0 abbilden.
+                    </p>
                 </blockquote>
             </li>
             <li class="eachlist"><strong>Ein Byte</strong>

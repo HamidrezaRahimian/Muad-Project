@@ -4,6 +4,9 @@ body {
     padding: 0;
     background-color: #f7f7f7;
     color: #333;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
 header {
@@ -12,6 +15,18 @@ header {
     padding: 1em;
     text-align: center;
 }
+
+main {
+    flex: 1;
+}
+
+footer {
+    background-color: #e74c3c;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+}
+
 
 nav {
     background-color: #c0392b;
@@ -58,14 +73,7 @@ th {
     color: #fff;
 }
 
-footer {
-    background-color: #e74c3c;
-    color: #fff;
-    padding: 1em;
-    text-align: center;
-}
 
-/* Additional Styles */
 h2,
 h3 {
     color: #e74c3c;
@@ -131,8 +139,6 @@ img {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-
-
 .flex-container {
     margin-bottom: 30px;
     background-color: #ffffff;
@@ -141,6 +147,19 @@ img {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 
 }
+
+.flex-container-feedback {
+    margin-bottom: 30px;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 70%;
+    margin: auto;
+}
+
+
+
 
 .text-box {
     width: auto;
@@ -153,6 +172,85 @@ img {
     margin-left: 30px;
 
 }
-figcaption{
+
+figcaption {
     font-size: xx-small;
+}
+
+.textoflistB {
+    padding-left: -10px;
+}
+
+blockquote {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.form-container {
+    font-family: 'Arial', sans-serif;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 70%;
+    margin: auto
+}
+
+.form-label {
+    display: block;
+    margin-bottom: 8px;
+    color: #333;
+}
+
+.form-input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.form-textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    resize: vertical;
+}
+
+.form-button {
+    background-color: #c0392b;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.form-button:hover {
+    background-color: #45a049;
+}
+
+.form-note {
+    color: #777;
+    margin-top: 10px;
 }
