@@ -37,10 +37,10 @@ Es sollen folgende HTML-Elemente verwendet werden.
 2 abbr 0,5
 
 
-    Nr. Tabelle | Max. 4 P SOLL IST  
+✅  Nr. Tabelle | Max. 4 P SOLL IST  
         done 1 table, thead, tbody, tfoot 2✅
         done 2 tr, th, td 1,5✅
-3 caption 0,5
+        done caption 0,5✅
 
 
     Nr. Multimedia und Grafiken | Max. 3 P SOLL IST
@@ -49,15 +49,13 @@ Es sollen folgende HTML-Elemente verwendet werden.
 3 audio, video, source 1,5
 
 
-    Nr. Formulare | Max. 3,5 P SOLL IST✅
+✅  Nr. Formulare | Max. 3,5 P SOLL IST
         done 1 form 0,5✅
         done 2 label 0,5✅
         done 3 input, textarea 1✅
         done 4 select, option 1✅
         done 5 button 0,5✅
-
-
-    Nr. Interaktiv | Max. 1 P SOLL IST✅
+        Nr. Interaktiv | Max. 1 P SOLL IST✅
         1 details , summary 1✅
 
 
