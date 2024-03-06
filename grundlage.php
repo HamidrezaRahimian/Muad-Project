@@ -24,6 +24,7 @@
 
         <h2>Grundlagen</h2>
         <ul class="listofdata">
+            <article>
             <li class="eachlist"> <strong>Ein Bit</strong>
                 <blockquote cite="https://www.ionos.de/digitalguide/websites/web-entwicklung/was-ist-ein-bit/">
                     <p class="textoflistB">
@@ -35,6 +36,8 @@
                     </p>
                 </blockquote>
             </li>
+            </article>
+            <article>
             <li class="eachlist"><strong>Ein Byte</strong>
                 <p class="textoflist">
                     Ein Byte, als Zusammenschluss von acht Bits, stellt eine fundamental größere Informationseinheit dar.
@@ -53,6 +56,8 @@
                     in diskrete Schritte zwingen zu müssen.
                 </p>
             </li>
+            </article>
+            <article>
             <li class="eachlist"><strong>Digital:</strong>
                 <p class="textoflist">
                     Digitale Signale hingegen sind diskret und nehmen nur bestimmte Werte an, typischerweise
@@ -63,6 +68,7 @@
                     schnellen Verarbeitung und Flexibilität aus.
                 </p>
             </li>
+            </article>
         </ul>
 
 
