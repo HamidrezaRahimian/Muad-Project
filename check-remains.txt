@@ -38,12 +38,6 @@ sollen Formulare und Tabelle gestaltet und mindestens eine Schriftart eingebunde
 
 
 
-
-
-
-
-
-
     Nr. Inhaltliches | Max. 5 P SOLL IST
 1 Sinnvoller Text und sinnvoller Aufbau der Webseite
 (Kein Blindtext | Zum Thema passende Texte | Footer und Datenschutz vorhanden) 5
@@ -63,10 +57,6 @@ Nr. Layout | Max. 17 P SOLL IST
 3 Pflichtfelder hervorgehoben (z.B. durch *) 1
 4 Funktionale Labels bei Eingabefeldern
 (Klick auf Text soll z.B. Checkbox aktivieren oder zu Eingabefeld führen) 2
-
-
-
-
 
 
 
