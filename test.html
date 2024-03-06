@@ -1,19 +1,36 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="de">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="index.css">
-    <title>Document</title>
+    <title>Blockquote Beispiel</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 20px;
+        }
+
+        blockquote {
+            border-left: 2px solid #e74c3c;
+            padding-left: 20px;
+            color: #555;
+            font-style: italic;
+        }
+    </style>
 </head>
 
 <body>
-    <span id="bolded">Herzlich willkommen</span>
-    <span class="">Herzlich willkommen</span>
-    <p id="bolded">Herzlich willkommen</p>
-    <p class="">Herzlich willkommen</p>
+    <h1>Blockquote Beispiel</h1>
 
+    <p>Ein einfacher Text vor dem Blockquote.</p>
+
+    <blockquote>
+        <p>Dies ist der Text im Blockquote. Hier kann eine zitierte Aussage oder ein relevanter Text stehen.</p>
+        <footer>Zitierte Quelle</footer>
+    </blockquote>
+
+    <p>Ein einfacher Text nach dem Blockquote.</p>
 </body>
 
 </html>
