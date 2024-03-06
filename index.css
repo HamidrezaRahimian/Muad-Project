@@ -7,6 +7,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    position: relative;
 
 }
 
@@ -16,6 +17,11 @@ header {
     color: #fff;
     padding: 1em;
     text-align: center;
+    position: fixed;
+    width: 100%;
+    top: 0;
+
+
 }
 
 main {
@@ -31,10 +37,13 @@ footer {
 
 
 nav {
+    margin-top: 117px;
     background-color: #c0392b;
     padding: 0.5em;
     text-align: center;
     overflow: hidden;
+    position: fixed;
+    width: 100%;
 
 }
 
@@ -93,8 +102,17 @@ nav a:hover {
 }
 
 section {
+    margin-top: 130px;
     padding: 2em;
 }
+
+.section1 {
+    margin-top: 160px;
+    padding: 2em;
+}
+
+
+
 
 table {
     width: 100%;
@@ -299,4 +317,15 @@ blockquote {
 
 #span2 {
     color: #c0392b;
+}
+
+
+
+.logo-shot {
+    width: 100px;
+    height: auto;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+
 }

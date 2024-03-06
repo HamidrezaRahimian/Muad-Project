@@ -69,9 +69,9 @@ sollen Formulare und Tabelle gestaltet und mindestens eine Schriftart eingebunde
 
 
     Nr. Selektoren | Max. 11 P SOLL IST
-1 Elementselektor 1✅
-2 Klassenselektor 1✅
-3 ID-Selektor 1✅
+        1 Elementselektor 1✅
+        2 Klassenselektor 1✅
+        3 ID-Selektor 1✅
 4 Attributselektor 1
 5 Pseudoklasse (mind. 2 Arten) 2
 6 Pseudoelemente (mind. 2 Arten) 2
@@ -79,15 +79,15 @@ sollen Formulare und Tabelle gestaltet und mindestens eine Schriftart eingebunde
 
 
     Nr. Positionierung | Max. 8 P SOLL IST
-1 relative 2
-2 absolute 2
+     1 relative 2✅
+     2 absolute 2✅
 3 sticky 2
-4 fixed 2
+     4 fixed 2✅
 
 
     Nr. Einbindung | Max. 5 P SOLL IST
 1 @font-face (Schriftart lokal) 2
-2 Favicon (selbst gestaltet) 3
+     2 Favicon (selbst gestaltet) 3✅
 
 
      ✅ Nr. Gestaltung | Max. 6 P SOLL IST
@@ -99,11 +99,11 @@ sollen Formulare und Tabelle gestaltet und mindestens eine Schriftart eingebunde
 
 
 
-PHP (12 Punkte)✅
-Es sollen Formulare mit PHP verarbeitet und die Include-Anweisung genutzt werden.
+     PHP (12 Punkte)✅
+      Es sollen Formulare mit PHP verarbeitet und die Include-Anweisung genutzt werden.
 
 
-    Nr. PHP | Max. 12 P SOLL IST
+      Nr. PHP | Max. 12 P SOLL IST
         1 Kontaktformular funktionsfähig (Alle Eingaben angezeigt) 4✅
         2 Weiteres Formular funktionsfähig (Alle Eingaben angezeigt) 4✅
         3 Include (oder require) mind. 3 mal eingesetzt, um Redundanzen zu vermeiden 4✅
@@ -117,24 +117,24 @@ Es sollen Formulare mit PHP verarbeitet und die Include-Anweisung genutzt werden
 
 
     Nr. Inhaltliches | Max. 5 P SOLL IST
-1 Sinnvoller Text und sinnvoller Aufbau der Webseite
-(Kein Blindtext | Zum Thema passende Texte | Footer und Datenschutz vorhanden) 5
+    1 Sinnvoller Text und sinnvoller Aufbau der Webseite✅
+    (Kein Blindtext | Zum Thema passende Texte | Footer und Datenschutz vorhanden) 5
 
 
-Nr. Layout | Max. 17 P SOLL IST
-1 Mehrspaltiges Layout (Responsive Design)✅
-(Max: 1920 x 1080 | Min: Mindestbreite Google Chrome. Tabellen auch responsive ohne zu scrollen!) 10
-2 Einheitliches Layout (nicht von Seite zu Seite anders) 3
-3 Bündige Linien, alles sichtbar bei 100% 3
-4 Impressum und Datenschutz im Footer (nicht Header) 1✅
+     Nr. Layout | Max. 17 P SOLL IST
+      1 Mehrspaltiges Layout (Responsive Design)✅
+(Max: 1920 x 1080 | Min: Mindestbreite Google Chrome. Tabellen auch responsive ohne zu scrollen!) 10✅
+      2 Einheitliches Layout (nicht von Seite zu Seite anders) 3✅
+      3 Bündige Linien, alles sichtbar bei 100% 3✅
+      4 Impressum und Datenschutz im Footer (nicht Header) 1✅
 
 
     Nr. Benutzeroberfläche | Max. 6 P SOLL IST
-1 Logo mit Verknüpfung zur Startseite 1
-2 Einheitliche Beschriftungen und nachvollziehbare Navigation 2
-3 Pflichtfelder hervorgehoben (z.B. durch *) 1
-4 Funktionale Labels bei Eingabefeldern
-(Klick auf Text soll z.B. Checkbox aktivieren oder zu Eingabefeld führen) 2
+    1 Logo mit Verknüpfung zur Startseite 1✅
+    2 Einheitliche Beschriftungen und nachvollziehbare Navigation 2✅
+    3 Pflichtfelder hervorgehoben (z.B. durch *) 1✅
+    4 Funktionale Labels bei Eingabefeldern✅
+    (Klick auf Text soll z.B. Checkbox aktivieren oder zu Eingabefeld führen) 2✅
 
 
 

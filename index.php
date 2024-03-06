@@ -18,7 +18,7 @@
     <nav>
         <?php include "nav.html" ?>
     </nav>
-    <section>
+    <section class="section1">
         <div class="flex-container">
 
             <p class="text-box">

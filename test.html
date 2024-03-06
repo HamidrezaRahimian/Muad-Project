@@ -1,37 +1,67 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blockquote Beispiel</title>
-    <link rel="icon" type="image/png" href="/img/favicon.png">
     <style>
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            margin: 20px;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
         }
 
-        blockquote {
-            border-left: 2px solid #e74c3c;
-            padding-left: 20px;
-            color: #555;
-            font-style: italic;
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+
+        #photologo {
+            display: block;
+            margin: 20px auto;
+            max-width: 100%;
+            height: auto;
+            cursor: pointer;
+        }
+
+        #goback {
+            display: block;
+            margin: 20px auto;
+            padding: 10px 20px;
+            background-color: #007BFF;
+            color: #fff;
+            text-decoration: none;
+            text-align: center;
+            border-radius: 5px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        #goback:hover {
+            background-color: #0056b3;
         }
     </style>
 </head>
 
 <body>
-    <h1>Blockquote Beispiel</h1>
 
-    <p>Ein einfacher Text vor dem Blockquote.</p>
+    <header>
+        <h1>My Website</h1>
+    </header>
 
-    <blockquote>
-        <p>Dies ist der Text im Blockquote. Hier kann eine zitierte Aussage oder ein relevanter Text stehen.</p>
-        <footer>Zitierte Quelle</footer>
-    </blockquote>
+    <img id="photologo" src="img/logo.png" alt="Photo Logo" onclick="goBack()" />
 
-    <p>Ein einfacher Text nach dem Blockquote.</p>
+    <a id="goback" href="home.html">Go Back to Home</a>
+
+    <script>
+        function goBack() {
+            window.location.href = "home.html";
+        }
+    </script>
+
 </body>
 
 </html>
