@@ -183,6 +183,10 @@ a:hover {
     color: wheat;
 }
 
+.afooter:active {
+    color: yellow;
+}
+
 
 img {
     width: 400px;
@@ -339,10 +343,21 @@ blockquote {
 
 }
 
+
+.sticky-e::first-line {
+    font-size: 24px;
+
+
+}
+
 .impressum1::before {
     content: "* ";
 }
 
 .impressum1::after {
     content: " * ";
+}
+
+.datenschuzt::first-letter {
+    font-size: xx-large;
 }

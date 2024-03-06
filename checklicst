@@ -72,9 +72,9 @@ HTML (26 Punkte)
         1 Elementselektor 1✅
         2 Klassenselektor 1✅
         3 ID-Selektor 1✅
-4 Attributselektor 1
-5 Pseudoklasse (mind. 2 Arten) 2
-6 Pseudoelemente (mind. 2 Arten) 2
+        4 Attributselektor 1✅
+        5 Pseudoklasse (mind. 2 Arten) 2✅
+        6 Pseudoelemente (mind. 2 Arten) 2✅
 7 Kombinator (mind. 3 Arten) 3
 
 

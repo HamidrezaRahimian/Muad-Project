@@ -20,7 +20,7 @@
     </nav>
     <main>
         <section>
-            <h2>Datenschutzerklärung </h2>
+            <h2 class="datenschuzt">Datenschutzerklärung </h2>
             <ul class="listofdata">
                 <li class="eachlist"> <strong>1. Verantwortliche Stelle</strong>
                     <p class="textoflist">Verantwortlich im Sinne der Datenschutzgesetze ist:
