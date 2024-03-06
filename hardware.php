@@ -21,35 +21,47 @@
         </h2>
         <ul class="listofdata">
             <li class="eachlist"><strong>Hauptplatine:</strong>
-                <p class="textoflist"> Die Hauptplatine, auch als <em>Motherboard bekannt</em>, ist die zentrale Platine eines
-                    Computers, auf der Hauptkomponenten wie der Prozessor, der Arbeitsspeicher, Erweiterungskarten und
-                    Anschlüsse für Peripheriegeräte integriert sind. Sie dient als zentrales Nervensystem, das die
-                    verschiedenen Teile des Computers miteinander verbindet und deren Zusammenarbeit ermöglicht.
+                <p class="textoflist">
+                    Die Hauptplatine, oft auch als Motherboard bezeichnet, ist das zentrale Nervensystem eines Computers.
+                    Sie fungiert als Verbindungszentrum für alle Komponenten des Systems. Auf der Hauptplatine sind der
+                    Prozessor (CPU), der Arbeitsspeicher (RAM), Steckplätze für Erweiterungskarten, Anschlüsse für
+                    Festplatten und weitere Peripheriegeräte fest verankert. Durch den Einsatz von Bussen und Schaltkreisen
+                    koordiniert die Hauptplatine den reibungslosen Datenverkehr zwischen den verschiedenen
+                    Hardwarekomponenten, was sie zu einer essenziellen Schaltzentrale für die Computerarchitektur macht.
                 </p>
 
             </li>
             <li class="eachlist"><strong>Eingabe:</strong>
-                <p class="textoflist"> Im Kontext von Computern bezieht sich der Begriff "Eingabe" auf den Prozess, bei
-                    dem
-                    Daten oder Befehle <em>in ein Computersystem eingegeben</em> werden. Dies kann durch Tastaturen, Mäuse,
-                    Touchscreens oder andere Eingabegeräte erfolgen. Die Eingabe ist der erste Schritt in den
-                    Verarbeitungsprozess von Computern.
+                <p class="textoflist">
+                    Eingabegeräte dienen dazu, Informationen in den Computer einzuführen, und die Hauptplatine
+                    spielt hier eine entscheidende Rolle. Tastaturen, Mäuse, Grafiktabletts und andere Eingabegeräte
+                    sind über entsprechende Anschlüsse direkt oder drahtlos mit der Hauptplatine verbunden. Die
+                    Hauptplatine interpretiert die von diesen Geräten generierten Signale und leitet sie an den
+                    Prozessor weiter. Somit ermöglicht die Hauptplatine die Interaktion des Benutzers mit dem
+                    Computer und die Eingabe von Daten für weitere Verarbeitungsschritte.
                 </p>
             </li>
 
             <li class="eachlist"><strong>Ausgabe:</strong>
-                <p class="textoflist"> Der Begriff "Ausgabe" bezieht sich auf die <em>Präsentation von verarbeiteten
-                        Informationen</em> oder Ergebnissen durch ein Computersystem. Dies kann über Bildschirme, Drucker,
-                    Lautsprecher oder andere Ausgabegeräte geschehen. Die Ausgabe ist der letzte Schritt im
-                    Verarbeitungszyklus eines Computers.
+                <p class="textoflist">
+                    Ebenso wichtig ist die Ausgabe von Informationen, und auch hier spielt die Hauptplatine
+                    eine Schlüsselrolle. Monitore, Drucker, Lautsprecher und andere Ausgabegeräte werden
+                    über die entsprechenden Anschlüsse an die Hauptplatine angeschlossen. Sie empfängt die
+                    Daten vom Prozessor, interpretiert sie und leitet sie an die Ausgabegeräte weiter.
+                    Dadurch ermöglicht die Hauptplatine die Darstellung von visuellen, auditiven oder
+                    gedruckten Informationen, die das Ergebnis der Computerberechnungen und -prozesse sind.
                 </p>
             </li>
             <li class="eachlist"><strong>Externspeicher:</strong>
-                <p class="textoflist"> Externspeicher bezeichnet <em>Speichermedien außerhalb des Hauptcomputers</em>, die Daten
-                    langfristig speichern können. Dazu gehören externe Festplatten, USB-Sticks, SD-Karten und andere
-                    tragbare Speichergeräte. Externspeicher ermöglicht die Erweiterung der Speicherkapazität eines
-                    Computers
-                    und die tragbare Aufbewahrung von Daten
+                <p class="textoflist">
+                    Externer Speicher, wie Festplatten und USB-Laufwerke, erweitert die
+                    Speicherkapazität eines Computers über die auf der Hauptplatine integrierten
+                    Speicheroptionen hinaus. Die Hauptplatine verfügt über Schnittstellen, wie SATA
+                    - oder PCIe-Steckplätze, um externe Speichergeräte anzuschließen. Diese externen
+                    Speichermedien ermöglichen die sichere Aufbewahrung von Daten und Anwendungen
+                    , die nicht nur die interne Festplatte nutzen. Die Hauptplatine fungiert als
+                    Mittler zwischen dem externen Speicher und dem Rest des Systems, indem sie
+                    den Datenaustausch über die entsprechenden Schnittstellen ermöglicht.
                 </p>
             </li>
 

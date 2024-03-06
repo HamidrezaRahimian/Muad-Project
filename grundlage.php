@@ -27,25 +27,41 @@
             <li class="eachlist"> <strong>Ein Bit</strong>
                 <blockquote cite="https://www.ionos.de/digitalguide/websites/web-entwicklung/was-ist-ein-bit/">
                     <p class="textoflistB">
-                        "Bit“ steht für binary digit und ist die kleinste binäre Informationseinheit. Damit ist sie die Basis für alle größeren Dateneinheiten der Digitaltechnik. Kleiner als Bit geht nicht, denn ein Bit kann entweder den Zustand 1 oder 0 abbilden.
+                        Das Bit, als kleinste Informationseinheit, fungiert als die digitale Quanta, die den Grundstein für die
+                        gesamte digitale Informationsverarbeitung legt. Als Kurzform für "binary digit" repräsentiert es die
+                        Zweiwertigkeit, indem es nur zwei Zustände annehmen kann: 0 oder 1. Diese scheinbare Einfachheit
+                        täuscht darüber hinweg, dass Bits in ihrer kollektiven Anordnung komplexe Datenstrukturen und
+                        Algorithmen ermöglichen, die das Rückgrat der modernen Informationsgesellschaft bilden.
                     </p>
                 </blockquote>
             </li>
             <li class="eachlist"><strong>Ein Byte</strong>
-                <p class="textoflist">Besteht aus 8 Bits und repräsentiert grundlegende Dateneinheiten in der digitalen
-                    Welt, wie Buchstaben oder Zahlen. Die Kombination von Bytes ermöglicht die Speicherung und
-                    Übertragung von Daten in unterschiedlichen Größenordnungen, von Kilobytes bis zu Gigabytes.</p>
+                <p class="textoflist">
+                    Ein Byte, als Zusammenschluss von acht Bits, stellt eine fundamental größere Informationseinheit dar.
+                    Mit dieser Menge an Binärinformation kann ein Byte 256 verschiedene Werte repräsentieren. Diese
+                    Reichhaltigkeit macht Bytes zu den Bausteinen, die Buchstaben, Zahlen, Symbole und sogar Befehle
+                    in der digitalen Welt darstellen. Der Begriff "Byte" unterstreicht seine Struktur, indem er auf
+                    die schlichte Gruppierung von acht Bits verweist.
+                </p>
             </li>
             <li class="eachlist"><strong>Analog:</strong>
-                <p class="textoflist">Kontinuierliche Darstellung von Daten durch ununterbrochene, glatte Wellenformen.
-                    Analoge Signale variieren innerhalb eines stetigen Bereichs und finden sich beispielsweise in
-                    analogen Audiosignalen oder Spannungen.</p>
+                <p class="textoflist">
+                    Im Gegensatz zur digitalen Welt repräsentieren analoge Signale kontinuierliche Werte innerhalb
+                    eines bestimmten Bereichs. In der Elektronik dienen analoge Signale dazu, reale physikalische
+                    Größen wie Spannung, Strom oder Temperatur präzise abzubilden. Durch die stetige Variation
+                    ermöglichen analoge Technologien eine naturgetreue Repräsentation von Phänomenen, ohne sie
+                    in diskrete Schritte zwingen zu müssen.
+                </p>
             </li>
             <li class="eachlist"><strong>Digital:</strong>
-                <p class="textoflist">Diskrete Darstellung von Daten mithilfe binärer Zahlen (0 und 1), die in diskreten
-                    Impulsen oder Schaltungen repräsentiert werden. Die digitale Signalverarbeitung ermöglicht präzise
-                    und zuverlässige Datenverarbeitung in Computern und anderen elektronischen Geräten, indem
-                    Informationen in klar definierten Zuständen codiert werden.</p>
+                <p class="textoflist">
+                    Digitale Signale hingegen sind diskret und nehmen nur bestimmte Werte an, typischerweise
+                    0 oder 1. Diese Diskretisierung eröffnet den Weg für präzise, fehlerresistente und
+                    effiziente Datenverarbeitung. Die Verwendung von binären Codes in der digitalen Technologie
+                    ist charakteristisch für Computer, Smartphones und eine breite Palette elektronischer
+                    Geräte. Die digitale Welt zeichnet sich durch ihre Fähigkeit zur genauen Speicherung,
+                    schnellen Verarbeitung und Flexibilität aus.
+                </p>
             </li>
         </ul>
 

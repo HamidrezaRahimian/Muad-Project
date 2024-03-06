@@ -87,27 +87,42 @@
 
 
         <h2> Vergleichsausdruck</h2>
+        <p>
+            Ein Vergleichsausdruck ist eine Konstruktion in der Programmierung, die dazu dient,
+            zwei Werte oder Ausdrücke miteinander zu vergleichen und das Ergebnis dieses Vergleichs
+            zu bestimmen. Typischerweise werden Vergleichsoperatoren wie "größer als" (>),
+            "kleiner als" (<), "gleich" (==), "ungleich" (!=), "größer gleich" (>=) und "kleiner gleich"
+                (<=) verwendet, um den Vergleich durchzuführen. Diese Ausdrücke werden oft in Bedingungen verwendet, um zu entscheiden, welche Aktionen in einem Programm ausgeführt werden sollen, abhängig von den Ergebnissen des Vergleichs. </p>
 
-        <div class="expression">
+                    <div class="expression">
 
-            (A . B) + (C + D) ≤ (E ⇒ F)
+                        (A . B) + (C + D) ≤ (E ⇒ F)
 
-        </div>
-
-
-
-        <h2> logischer Ausdruck</h2>
-
-        <div class="expression">
-
-            (P ∧ Q) ∨ ( ¬R + S) ⇒ (T ≠ U)
-
-        </div>
+                    </div>
 
 
 
+                    <h2> logischer Ausdruck</h2>
+                    <p>
+                        in logischer Ausdruck ist ein Ausdruck in der Programmierung, der logische Operatoren
+                        wie "und" (&&), "oder" (||) und "nicht" (!) verwendet, um die Logik von Bedingungen
+                        oder Aussagen zu kombinieren. Diese Ausdrücke ermöglichen es, komplexe Bedingungen
+                        zu formulieren, die aus mehreren Teilaussagen bestehen. Logische Ausdrücke werden
+                        häufig in Verbindung mit Vergleichsausdrücken verwendet, um Bedingungen zu erstellen,
+                        die auf mehreren Kriterien basieren. Sie spielen eine wichtige Rolle in der
+                        Steuerung des Programmflusses und der Entscheidungsfindung während der Ausführung eines Programms.
+                    </p>
 
-        <a href="index.php">Startseite</a>
+                    <div class="expression">
+
+                        (P ∧ Q) ∨ ( ¬R + S) ⇒ (T ≠ U)
+
+                    </div>
+
+
+
+
+                    <a href="index.php">Startseite</a>
 
     </section>
     <footer>
