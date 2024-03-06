@@ -47,7 +47,7 @@
             </div>
             <h3>Kontakt:</h3>
             <h4>E-Mail:</h4>
-            <P>
+            <P class="emailfont">
                 moritzdaf4@gmail.com <br>
                 hamidrezarahimian15@gmail.com <br>
                 stiersaskia6@gmail.com <br>

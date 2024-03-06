@@ -1,3 +1,16 @@
+@font-face {
+    font-family: Matrix;
+    src: url(fonts/Archivo-Italic-VariableFont_wdth\,wght.ttf);
+}
+
+.emailfont {
+    font-family: Matrix;
+}
+
+
+
+
+
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
