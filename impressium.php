@@ -20,12 +20,14 @@
 
     <main>
         <section>
+            <div class="sticky-e">
 
-            <h2>Impressum</h2>
+                <h2>Impressum</h2>
 
-            Website-Name: [Website-Name einfügen] <br>
-            Website-URL: [Website-URL einfügen] <br>
-
+                Website-Name: [Website-Name einfügen] <br>
+                Website-URL: [Website-URL einfügen] <br>
+                <hr>
+            </div>
             <h3>Verantwortlich:</h3>
             Saskia Stier <br>
             Schloss 11 <br>
@@ -48,8 +50,6 @@
             hamidrezarahimian15@gmail.com <br>
             stiersaskia6@gmail.com <br>
 
-            <h4>Telefon:</h4>
-            +4915753730107
 
             <h3>Haftungsausschluss:</h3>
             Die bereitgestellten Inhalte auf dieser Website dienen ausschließlich Unterhaltungszwecken.

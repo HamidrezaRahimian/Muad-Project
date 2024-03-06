@@ -329,3 +329,14 @@ blockquote {
     left: 10px;
 
 }
+
+.sticky-e {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 155px;
+    /* Adjust this value to match the height of your nav bar */
+    background-color: #f7f7f7;
+    /* Add a background color if needed */
+    z-index: 100;
+
+}
