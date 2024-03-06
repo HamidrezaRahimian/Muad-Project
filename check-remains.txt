@@ -1,6 +1,5 @@
 
-1 blockquote 0,5
-2 svg, iframe 1
+ iframe 1
 3 audio, video, source 1,5
 
 
