@@ -340,9 +340,7 @@ blockquote {
     top: 155px;
     background-color: #f7f7f7;
     z-index: 100;
-
 }
-
 
 .sticky-e::first-line {
     font-size: 24px;
