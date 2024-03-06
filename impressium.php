@@ -30,29 +30,28 @@
             </div>
             <h3>Verantwortlich:</h3>
             <div class="list-of-names">
-                <p>Saskia Stier <br>
-                    Schloss 11 <br>
-                    97980 Bad Mergentheim, Germany <br>
-                    8855870 </p>
+                <p>Saskia Stier </p>
+                Schloss 11 <br>
+                97980 Bad Mergentheim, Germany <br>
+                8855870
 
-                <p>
-                    Hamidreza Rahimian <br>
-                    Schloss 11 <br>
-                    97980 Bad Mergentheim, Germany <br>
-                    1478661 </p>
+                <p>Hamidreza Rahimian </p>
+                Schloss 11 <br>
+                97980 Bad Mergentheim, Germany <br>
+                1478661
 
-                <p>
-                    Moritz Ungemach<br>
-                    Schloss 11 <br>
-                    97980 Bad Mergentheim, Germany <br>
-                    1299169 </p>
+                <p> Moritz Ungemach</p>
+                Schloss 11 <br>
+                97980 Bad Mergentheim, Germany <br>
+                1299169
             </div>
             <h3>Kontakt:</h3>
             <h4>E-Mail:</h4>
-            moritzdaf4@gmail.com <br>
-            hamidrezarahimian15@gmail.com <br>
-            stiersaskia6@gmail.com <br>
-
+            <P>
+                moritzdaf4@gmail.com <br>
+                hamidrezarahimian15@gmail.com <br>
+                stiersaskia6@gmail.com <br>
+            </P>
 
             <h3>Haftungsausschluss:</h3>
             Die bereitgestellten Inhalte auf dieser Website dienen ausschließlich Unterhaltungszwecken.
