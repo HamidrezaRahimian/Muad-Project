@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <title>Feedback</title>
     <link rel="stylesheet" href="index.css">
+    <link rel="icon" type="image/png" href="img/favicon.png">
 </head>
 
 <body>
