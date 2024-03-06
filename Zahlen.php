@@ -144,6 +144,11 @@
             <dd>Die Zahl wird im <abbr title="Binär">2er Zahlensytem</abbr> angegeben</dd>
         </dl>
 
+        <video width="500" height="500" controls>
+            <source src="img/306d753837b28be5a36a80305707b3a0b1b7515ffce295f8e2aeb1cb38810f26.mp4">
+        </video>
+<br>
+
 
         <a href="index.php">Startseite</a>
 
