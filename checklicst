@@ -1,6 +1,6 @@
 
 HTML (26 Punkte)
-Es sollen folgende HTML-Elemente verwendet werden.
+       Es sollen folgende HTML-Elemente verwendet werden.
 
 
        ✅Nr. Seitenstrukturierung | Max. 3,5 P SOLL IST
@@ -62,13 +62,13 @@ Es sollen folgende HTML-Elemente verwendet werden.
 
 
 
-CSS (30 Punkte)
-Es sollen bestimmte Selektoren und Positionierungsmethoden verwendet werden. Zudem
-sollen Formulare und Tabelle gestaltet und mindestens eine Schriftart eingebunden werden
-(lokal, also ohne Internetverbindung).
+            CSS (30 Punkte)
+            Es sollen bestimmte Selektoren und Positionierungsmethoden verwendet werden. Zudem
+            sollen Formulare und Tabelle gestaltet und mindestens eine Schriftart eingebunden werden
+            (lokal, also ohne Internetverbindung).
 
 
-    Nr. Selektoren | Max. 11 P SOLL IST
+        Nr. Selektoren | Max. 11 P SOLL IST
         1 Elementselektor 1✅
         2 Klassenselektor 1✅
         3 ID-Selektor 1✅
@@ -81,7 +81,7 @@ sollen Formulare und Tabelle gestaltet und mindestens eine Schriftart eingebunde
     Nr. Positionierung | Max. 8 P SOLL IST
      1 relative 2✅
      2 absolute 2✅
-3 sticky 2
+     3 sticky 2✅
      4 fixed 2✅
 
 
