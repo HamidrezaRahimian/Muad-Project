@@ -132,7 +132,7 @@
             Dezimalzahl auf null reduziert ist. Das Ergebnis ist die Binärdarstellung der ursprünglichen Dezimalzahl. Diese Umrechnung ist besonders wichtig in der digitalen Welt, in der Computer und elektronische Systeme mit Binärzahlen arbeiten. Es ist eine grundlegende Fertigkeit, die für das Verständnis von Datenverarbeitung und Codierung von wesentlicher Bedeutung ist.
         </p>
 
-        <iframe src="https://bin-dez-hex-umrechner.de/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
+        <iframe src="https://bin-dez-hex-umrechner.de/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="530px" width="600px" allowfullscreen></iframe>
         <h3>
             Erläuterung
         </h3>
