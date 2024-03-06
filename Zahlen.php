@@ -49,8 +49,7 @@
                     <td></td>
                 </tr>
                 <tr>
-                    <td>
-                    </td>
+                    <td></td>
                     <td>128</td>
                     <td>64</td>
                     <td>32</td>
@@ -99,25 +98,27 @@
                 </tr>
             </tbody>
             <tfoot>
-                <td></td>
+                <tr>
+                    <td></td>
 
-                <td>128</td>
+                    <td>128</td>
 
-                <td>64</td>
+                    <td>64</td>
 
-                <td>32</td>
+                    <td>32</td>
 
-                <td>16</td>
+                    <td>16</td>
 
-                <td>8</td>
+                    <td>8</td>
 
-                <td>4</td>
+                    <td>4</td>
 
-                <td>2</td>
+                    <td>2</td>
 
-                <td>1</td>
+                    <td>1</td>
 
-                <td></td>
+                    <td></td>
+                </tr>
 
             </tfoot>
 

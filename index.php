@@ -14,11 +14,9 @@
     <header>
         <?php include "header.html" ?>
     </header>
-
     <nav>
         <?php include "nav.html" ?>
     </nav>
-
     <section>
         <div class="flex-container">
 
@@ -26,7 +24,6 @@
                 Herzlich willkommen auf unserer Webseite! Als begeisterter Technologie-Enthusiast möchte ich mit dir die
                 faszinierende Welt der Digitalisierung und Computer erkunden. In einer Ära, die von ständigem Fortschritt und
                 Innovation geprägt ist, spielen digitale Technologien eine entscheidende Rolle in unserem täglichen Leben.
-
                 Die Digitalisierung hat nicht nur die Art und Weise, wie wir arbeiten, kommunizieren und Informationen teilen,
                 revolutioniert, sondern sie hat auch neue Horizonte für Kreativität und Effizienz eröffnet. Computer, als die
                 treibende Kraft hinter dieser Entwicklung, sind mehr als nur Werkzeuge; sie sind die Architekten unserer
@@ -83,8 +80,6 @@
                 </figure>
             </aside>
         </div>
-
-
 
     </section>
 
