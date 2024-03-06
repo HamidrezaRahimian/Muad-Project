@@ -339,6 +339,10 @@ blockquote {
 
 }
 
-.sticky-e::before {
+.impressum1::before {
     content: "* ";
+}
+
+.impressum1::after {
+    content: " * ";
 }

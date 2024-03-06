@@ -22,7 +22,7 @@
         <section>
             <div class="sticky-e">
 
-                <h2>Impressum</h2>
+                <h2 class="impressum1">Impressum</h2>
 
                 Website-Name: [Website-Name einfügen] <br>
                 Website-URL: [Website-URL einfügen] <br>
