@@ -355,3 +355,8 @@ blockquote {
 .datenschuzt::first-letter {
     font-size: xx-large;
 }
+
+
+.list-of-names p {
+    font-size: medium;
+}

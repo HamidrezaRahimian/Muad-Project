@@ -1,66 +1,30 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
-
-        header {
-            background-color: #333;
-            color: #fff;
-            padding: 10px;
-            text-align: center;
-        }
-
-        #photologo {
-            display: block;
-            margin: 20px auto;
-            max-width: 100%;
-            height: auto;
-            cursor: pointer;
-        }
-
-        #goback {
-            display: block;
-            margin: 20px auto;
-            padding: 10px 20px;
-            background-color: #007BFF;
-            color: #fff;
-            text-decoration: none;
-            text-align: center;
-            border-radius: 5px;
-            font-weight: bold;
-            cursor: pointer;
-        }
-
-        #goback:hover {
-            background-color: #0056b3;
+        .list-of-names p {
+            background-color: red;
         }
     </style>
 </head>
 
 <body>
 
-    <header>
-        <h1>My Website</h1>
-    </header>
+    <h2>Descendant Selector</h2>
 
-    <img id="photologo" src="img/logo.png" alt="Photo Logo" onclick="goBack()" />
+    <p>The descendant selector matches all elements that are descendants of a specified element.</p>
 
-    <a id="goback" href="home.html">Go Back to Home</a>
+    <div class="list-of-names">
+        <p>Paragraph 1 in the div.</p>
+        <p>Paragraph 2 in the div.</p>
+        <section>
+            <p>Paragraph 3 in the div.</p>
+        </section>
+    </div>
 
-    <script>
-        function goBack() {
-            window.location.href = "home.html";
-        }
-    </script>
+    <p>Paragraph 4. Not in a div.</p>
+    <p>Paragraph 5. Not in a div.</p>
 
 </body>
 
