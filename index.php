@@ -21,7 +21,7 @@
         <div class="flex-container">
 
             <p class="text-box">
-                Herzlich willkommen auf unserer Webseite! Als begeisterter Technologie-Enthusiast möchte ich mit dir die
+                Herzlich willkommen auf unserer Webseite! Als begeisterter Technologie-Enthusiast möchten wir mit dir die
                 faszinierende Welt der Digitalisierung und Computer erkunden. In einer Ära, die von ständigem Fortschritt und
                 Innovation geprägt ist, spielen digitale Technologien eine entscheidende Rolle in unserem täglichen Leben.
                 Die Digitalisierung hat nicht nur die Art und Weise, wie wir arbeiten, kommunizieren und Informationen teilen,
