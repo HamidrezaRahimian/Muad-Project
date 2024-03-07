@@ -4,17 +4,16 @@
 <head>
     <meta charset="UTF-8">
     <title>Gästebuch</title>
-    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="../css/index.css">
     <link rel="icon" type="image/png" href="img/favicon.png">
 </head>
 
 <body>
     <header>
-        <?php include "header.html" ?>
+        <?php include "templates/header.php" ?>
     </header>
-
     <nav>
-        <?php include "nav.html" ?>
+        <?php include "templates/nav.php" ?>
     </nav>
 
     <section>
@@ -91,7 +90,7 @@
     </section>
 
     <footer>
-        <?php include "footer.html" ?>
+        <?php include "templates/footer.php" ?>
     </footer>
 
 </body>

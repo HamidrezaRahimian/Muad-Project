@@ -5,17 +5,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Impressum</title>
-    link rel="stylesheet" href="">
+    <link rel="stylesheet" href="../css/index.css">
     <link rel="icon" type="image/png" href="img/favicon.png">
 </head>
 
 <body>
     <header>
-        <?php include "header.html" ?>
+        <?php include "templates/header.php" ?>
     </header>
-
     <nav>
-        <?php include "nav.html" ?>
+        <?php include "templates/nav.php" ?>
     </nav>
 
     <main>
@@ -78,7 +77,7 @@
             <div class="thanks">
                 <p>Übrigens: Vielen Dank für Ihren Besuch auf unserer Website, wir danken Ihnen.</p>
                 <audio controls>
-                    <source src="img/mixkit-male-crowd-says-thank-you-382.wav" type="audio/ogg">
+                    <source src="../assets/audio/mixkit-male-crowd-says-thank-you-382.wav" type="audio/ogg">
                     Dankeschön Voice
                 </audio>
             </div>
@@ -87,7 +86,7 @@
     </main>
 
     <footer>
-        <?php include "footer.html" ?>
+        <?php include "templates/footer.php" ?>
     </footer>
 </body>
 

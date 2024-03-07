@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Digitalisierung</title>
-    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="css/index.css">
     <link rel="icon" type="image/png" href="img/favicon.png">
 
 
@@ -13,10 +13,10 @@
 
 <body>
     <header>
-        <?php include "header.html" ?>
+        <?php include "php/templates/header.php" ?>
     </header>
     <nav>
-        <?php include "nav.html" ?>
+        <?php include "php/templates/nav-index.php" ?>
     </nav>
     <section class="section1">
         <div class="flex-container">
@@ -33,14 +33,14 @@
             </p>
             <aside>
                 <figure class="images">
-                    <img class="image1" src="img/img1.jpg" alt="">
+                    <img class="image1" src="assets/images/img1.jpg" alt="">
                     <figcaption>programming</figcaption>
                 </figure>
             </aside>
         </div>
         <div class="flex-container">
             <figure class="images">
-                <img class="image2" src="img/img3.jpg" alt="">
+                <img class="image2" src="assets/images/img3.jpg" alt="">
                 <figcaption>we are better in Teams!</figcaption>
             </figure>
             <aside>
@@ -76,7 +76,7 @@
             </p>
             <aside>
                 <figure class="images">
-                    <img class="image4" src="img/img4.jpg" alt="">
+                    <img class="image4" src="assets/images/img4.jpg" alt="">
                     <figcaption>digital world</figcaption>
                 </figure>
             </aside>
@@ -86,7 +86,7 @@
 
     <footer>
         <div>
-            <?php include "footer.html" ?>
+            <?php include "php/templates/footer-index.php" ?>
         </div>
     </footer>
 

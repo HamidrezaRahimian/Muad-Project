@@ -5,21 +5,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Digitalisierung</title>
-    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="../css/index.css">
 
 </head>
 
 <body>
 
 
-
     <header>
-        <?php include "header.html" ?>
+        <?php include "templates/nav.php" ?>
     </header>
-
     <nav>
-        <?php include "nav.html" ?>
+        <?php include "templates/nav.php" ?>
     </nav>
+
     <section>
 
         <h2>Zahlensysteme</h2>
@@ -146,7 +145,7 @@
         </dl>
         <div class="video-div">
             <video controls>
-                <source src="img/306d753837b28be5a36a80305707b3a0b1b7515ffce295f8e2aeb1cb38810f26.mp4">
+                <source src="../assets/videos/binarsystem.mp4">
             </video>
         </div>
         <br>
@@ -158,7 +157,7 @@
 
 
     <footer>
-        <?php include "footer.html" ?>
+        <?php include "templates/footer.php" ?>
     </footer>
 
 </body>

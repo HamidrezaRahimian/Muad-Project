@@ -5,22 +5,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Digitalisierung</title>
-    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="../css/index.css">
     <link rel="icon" type="image/png" href="img/favicon.png">
 
 </head>
 
 <body>
 
-
-
     <header>
-        <?php include "header.html" ?>
+        <?php include "templates/header.php" ?>
     </header>
-
     <nav>
-        <?php include "nav.html" ?>
+        <?php include "templates/nav.php" ?>
     </nav>
+
     <section>
         <h2>Zeichencodenummern der Operatoren</h2>
         <table>
@@ -127,7 +125,7 @@
 
     </section>
     <footer>
-        <?php include "footer.html" ?>
+        <?php include "templates/footer.php" ?>
     </footer>
 
 </body>

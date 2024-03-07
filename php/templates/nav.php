@@ -1,5 +1,4 @@
-
-<a href="index.php">Startseite</a>
+<a href="../index.php">Startseite</a>
 <a href="grundlage.php">Grundlage</a>
 <a href="hardware.php">hardware</a>
 <a href="Zahlen.php">Zahlensysteme</a>
