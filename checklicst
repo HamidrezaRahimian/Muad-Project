@@ -1,5 +1,5 @@
 
-HTML (26 Punkte)
+       HTML (26 Punkte)
        Es sollen folgende HTML-Elemente verwendet werden.
 
 
@@ -43,10 +43,10 @@ HTML (26 Punkte)
         done caption 0,5✅
 
 
-    Nr. Multimedia und Grafiken | Max. 3 P SOLL IST
+        Nr. Multimedia und Grafiken | Max. 3 P SOLL IST
         done 1 img 0,5✅
-2 svg, iframe 1
-3 audio, video, source 1,5
+        2 svg, iframe 1✅
+        3 audio, video, source 1,5
 
 
         ✅  Nr. Formulare | Max. 3,5 P SOLL IST
@@ -76,28 +76,28 @@ HTML (26 Punkte)
         7 Kombinator (mind. 3 Arten) 3✅
 
 
-    Nr. Positionierung | Max. 8 P SOLL IST
+     Nr. Positionierung | Max. 8 P SOLL IST
      1 relative 2✅
      2 absolute 2✅
      3 sticky 2✅
      4 fixed 2✅
 
 
-    Nr. Einbindung | Max. 5 P SOLL IST
-1 @font-face (Schriftart lokal) 2
+     Nr. Einbindung | Max. 5 P SOLL IST
+     1 @font-face (Schriftart lokal) 2✅
      2 Favicon (selbst gestaltet) 3✅
 
 
      ✅ Nr. Gestaltung | Max. 6 P SOLL IST
-    1 Tabellen 3✅
-    02 Formulare 3✅
+     1 Tabellen 3✅
+     02 Formulare 3✅
 
 
 
 
 
 
-     PHP (12 Punkte)✅
+      PHP (12 Punkte)✅
       Es sollen Formulare mit PHP verarbeitet und die Include-Anweisung genutzt werden.
 
 
@@ -119,7 +119,7 @@ HTML (26 Punkte)
     (Kein Blindtext | Zum Thema passende Texte | Footer und Datenschutz vorhanden) 5
 
 
-     Nr. Layout | Max. 17 P SOLL IST
+      Nr. Layout | Max. 17 P SOLL IST
       1 Mehrspaltiges Layout (Responsive Design)✅
       (Max: 1920 x 1080 | Min: Mindestbreite Google Chrome. Tabellen auch responsive ohne zu scrollen!) 10✅
       2 Einheitliches Layout (nicht von Seite zu Seite anders) 3✅

@@ -75,7 +75,13 @@
             <hr>
             <h3>Zuletzt aktualisiert:</h3>
             <p>04.03.2024</p>
-
+            <div class="thanks">
+                <p>Übrigens: Vielen Dank für Ihren Besuch auf unserer Website, wir danken Ihnen.</p>
+                <audio controls>
+                    <source src="img/mixkit-male-crowd-says-thank-you-382.wav" type="audio/ogg">
+                    Dankeschön Voice
+                </audio>
+            </div>
             <a href="index.php">Startseite</a>
         </section>
     </main>
