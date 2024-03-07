@@ -131,8 +131,9 @@
             2 und das Festhalten der Reste in umgekehrter Reihenfolge. Dieser Vorgang setzt sich fort, bis die
             Dezimalzahl auf null reduziert ist. Das Ergebnis ist die Binärdarstellung der ursprünglichen Dezimalzahl. Diese Umrechnung ist besonders wichtig in der digitalen Welt, in der Computer und elektronische Systeme mit Binärzahlen arbeiten. Es ist eine grundlegende Fertigkeit, die für das Verständnis von Datenverarbeitung und Codierung von wesentlicher Bedeutung ist.
         </p>
-
-        <iframe src="https://bin-dez-hex-umrechner.de/"  height="530" width="600" allowfullscreen></iframe>
+        <div class="umrechner">
+            <iframe src="https://bin-dez-hex-umrechner.de/" height="530" width="600" allowfullscreen></iframe>
+        </div>
         <h3>
             Erläuterung
         </h3>
@@ -143,11 +144,12 @@
             <dt>XXX<span style="color: #c0392b"><sub>2</sub></span></dt>
             <dd>Die Zahl wird im <abbr title="Binär">2er Zahlensytem</abbr> angegeben</dd>
         </dl>
-
-        <video width="500" height="500" controls>
-            <source src="img/306d753837b28be5a36a80305707b3a0b1b7515ffce295f8e2aeb1cb38810f26.mp4">
-        </video>
-<br>
+        <div class="video-div">
+            <video controls>
+                <source src="img/306d753837b28be5a36a80305707b3a0b1b7515ffce295f8e2aeb1cb38810f26.mp4">
+            </video>
+        </div>
+        <br>
 
         <a href="index.php">Startseite</a>
 
