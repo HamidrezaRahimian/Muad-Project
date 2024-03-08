@@ -24,9 +24,12 @@
 
         <h2>Grundlagen</h2>
         <ul class="listofdata">
-            <article>
-                <li class="eachlist"> <strong>Ein Bit</strong>
-                    <blockquote cite="https://www.ionos.de/digitalguide/websites/web-entwicklung/was-ist-ein-bit/">
+
+            <li class="eachlist">
+
+                <blockquote cite="https://www.ionos.de/digitalguide/websites/web-entwicklung/was-ist-ein-bit/">
+                    <article>
+                        <h3>Ein Bit</h3>
                         <p class="textoflistB">
                             Das Bit, als kleinste Informationseinheit, fungiert als die digitale Quanta, die den Grundstein für die
                             gesamte digitale Informationsverarbeitung legt. Als Kurzform für "binary digit" repräsentiert es die
@@ -34,11 +37,14 @@
                             täuscht darüber hinweg, dass Bits in ihrer kollektiven Anordnung komplexe Datenstrukturen und
                             Algorithmen ermöglichen, die das Rückgrat der modernen Informationsgesellschaft bilden.
                         </p>
-                    </blockquote>
-                </li>
-            </article>
-            <article>
-                <li class="eachlist"><strong>Ein Byte</strong>
+                    </article>
+                </blockquote>
+            </li>
+
+
+            <li class="eachlist">
+                <article>
+                    <h3>Ein Byte</h3>
                     <p class="textoflist">
                         Ein Byte, als Zusammenschluss von acht Bits, stellt eine fundamental größere Informationseinheit dar.
                         Mit dieser Menge an Binärinformation kann ein Byte 256 verschiedene Werte repräsentieren. Diese
@@ -46,8 +52,12 @@
                         in der digitalen Welt darstellen. Der Begriff "Byte" unterstreicht seine Struktur, indem er auf
                         die schlichte Gruppierung von acht Bits verweist.
                     </p>
-                </li>
-                <li class="eachlist"><strong>Analog:</strong>
+                </article>
+            </li>
+            <li class="eachlist">
+
+                <article>
+                    <h3>Analog:</h3>
                     <p class="textoflist">
                         Im Gegensatz zur digitalen Welt repräsentieren analoge Signale kontinuierliche Werte innerhalb
                         eines bestimmten Bereichs. In der Elektronik dienen analoge Signale dazu, reale physikalische
@@ -55,10 +65,14 @@
                         ermöglichen analoge Technologien eine naturgetreue Repräsentation von Phänomenen, ohne sie
                         in diskrete Schritte zwingen zu müssen.
                     </p>
-                </li>
-            </article>
-            <article>
-                <li class="eachlist"><strong>Digital:</strong>
+                </article>
+            </li>
+
+
+            <li class="eachlist">
+
+                <article>
+                    <h3>Digital:</h3>
                     <p class="textoflist">
                         Digitale Signale hingegen sind diskret und nehmen nur bestimmte Werte an, typischerweise
                         0 oder 1. Diese Diskretisierung eröffnet den Weg für präzise, fehlerresistente und
@@ -67,8 +81,9 @@
                         Geräte. Die digitale Welt zeichnet sich durch ihre Fähigkeit zur genauen Speicherung,
                         schnellen Verarbeitung und Flexibilität aus.
                     </p>
-                </li>
-            </article>
+                </article>
+            </li>
+
         </ul>
 
 

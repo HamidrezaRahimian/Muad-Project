@@ -23,7 +23,7 @@
 
                 <h2 class="impressum1">Impressum</h2>
 
-                Website-Name: [Website-Name einfügen] <br>
+                Website-Name: Digitalisierung-Help <br>
                 Website-URL: [Website-URL einfügen] <br>
                 <hr>
             </div>

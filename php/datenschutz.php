@@ -69,11 +69,12 @@
                         diese Datenschutzerklärung regelmäßig zu lesen.</p>
 
             </ul>
+        </section>
     </main>
 
 
     <a href="index.php">Startseite</a>
-    </section>
+
 
     <footer>
         <?php include "templates/footer.php" ?>s
