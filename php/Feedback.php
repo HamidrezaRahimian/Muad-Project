@@ -90,6 +90,7 @@
 
         </div>
     </section>
+    <a href="../index.php">Startseite</a>
 
     <footer>
         <?php include "templates/footer.php" ?>

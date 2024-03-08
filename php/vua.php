@@ -121,7 +121,7 @@
 
 
 
-        <a href="index.php">Startseite</a>
+        <a href="../index.php">Startseite</a>
 
     </section>
     <footer>

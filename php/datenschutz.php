@@ -73,7 +73,7 @@
     </main>
 
 
-    <a href="index.php">Startseite</a>
+    <a href="../index.php">Startseite</a>
 
 
     <footer>
