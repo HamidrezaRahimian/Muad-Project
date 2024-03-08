@@ -56,7 +56,7 @@
             $user_info = array($name, $datum, $eintrag, $art);
             if (!empty($name) and !empty($datum) and !empty($eintrag) and !empty($art)) {
                 $daten = implode(";", $user_info) . "\r\n";
-                $zitate = file("Datei");
+                $zitate = file("../assets/Data/FeedbackData");
                 for ($i = 0; $i < count($zitate); $i++) {
                     if ($daten != $zitate[$i]) {
                         $schon_drin = false;
@@ -65,7 +65,7 @@
                     }
                 }
                 if (!$schon_drin) {
-                    file_put_contents("../Datei", $daten, FILE_APPEND);
+                    file_put_contents("../assets/Data/FeedbackData", $daten, FILE_APPEND);
                 } else {
                     echo "Bitte alle Felder ausfüllen" . "<br><br>";
                 }
@@ -77,14 +77,15 @@
 
             <details>
                 <summary><Strong>Einträge</Strong></summary>
-                <p><?php
-                    $zitate = file("Datei");
+                <?php
+                    $zitate = file("../assets/Data/FeedbackData");
                     for ($i = 0; $i < count($zitate); $i++) {
                         echo $i + 1 . ": " . $zitate[$i] . "<br><br>";
                     }
 
 
-                    ?></p>
+                    ?>
+                
             </details>
 
 
