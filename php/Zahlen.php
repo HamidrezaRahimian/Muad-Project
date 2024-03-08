@@ -1,11 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="de">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Digitalisierung</title>
     <link rel="stylesheet" href="../css/index.css">
+    <link rel="icon" type="image/png" href="../assets/images/favicon.png">
 
 </head>
 
@@ -13,7 +14,7 @@
 
 
     <header>
-        <?php include "templates/nav.php" ?>
+        <?php include "templates/header.php" ?>
     </header>
     <nav>
         <?php include "templates/nav.php" ?>
@@ -98,25 +99,27 @@
                 </tr>
             </tbody>
             <tfoot>
-                <td></td>
+                <tr>
+                    <td></td>
 
-                <td>128</td>
+                    <td>128</td>
 
-                <td>64</td>
+                    <td>64</td>
 
-                <td>32</td>
+                    <td>32</td>
 
-                <td>16</td>
+                    <td>16</td>
 
-                <td>8</td>
+                    <td>8</td>
 
-                <td>4</td>
+                    <td>4</td>
 
-                <td>2</td>
+                    <td>2</td>
 
-                <td>1</td>
+                    <td>1</td>
 
-                <td></td>
+                    <td></td>
+                </tr>
 
             </tfoot>
 

@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="de">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Digitalisierung</title>
     <link rel="stylesheet" href="../css/index.css">
-    <link rel="icon" type="image/png" href="img/favicon.png">
+    <link rel="icon" type="image/png" href="../assets/images/favicon.png">
 
 </head>
 
@@ -33,7 +33,7 @@
                 <tr>
                     <td>¬</td>
                     <td>&amp;#x00AC;</td>
-                    <td>&amp#172;</td>
+                    <td>&amp;#172;</td>
                 </tr>
                 <tr>
                     <td>∧</td>
@@ -90,8 +90,7 @@
             Ein Vergleichsausdruck ist eine Konstruktion in der Programmierung, die dazu dient,
             zwei Werte oder Ausdrücke miteinander zu vergleichen und das Ergebnis dieses Vergleichs
             zu bestimmen. Typischerweise werden Vergleichsoperatoren wie "größer als" (>),
-            "kleiner als" (<), "gleich" (==), "ungleich" (!=), "größer gleich" (>=) und "kleiner gleich"
-                (<=) verwendet, um den Vergleich durchzuführen. Diese Ausdrücke werden oft in Bedingungen verwendet, um zu entscheiden, welche Aktionen in einem Programm ausgeführt werden sollen, abhängig von den Ergebnissen des Vergleichs. </p>
+            "kleiner als" (<), "gleich" (==), "ungleich" (!=), "größer gleich" (>=) und "kleiner gleich" (<=) verwendet, um den Vergleich durchzuführen. Diese Ausdrücke werden oft in Bedingungen verwendet, um zu entscheiden, welche Aktionen in einem Programm ausgeführt werden sollen, abhängig von den Ergebnissen des Vergleichs. </p>
 
                     <div class="expression">
 
