@@ -19,24 +19,25 @@
     <section>
         <h2>Kontakt</h2>
         <div class="flex-container-feedback">
-            <form method="post" action="form.php">
+            <form method="post" action="form.php" autocomplete="off">
                 <label for="name" class="form-label">Name: *</label>
-                <input type="text" name="name" id="name" class="form-input">
+                <input type="text" name="name" id="name" class="form-input" autocomplete="off">
 
                 <label for="datum" class="form-label">Besucht am: *</label>
-                <input type="date" name="datum" id="datum" class="form-input">
+                <input type="date" name="datum" id="datum" class="form-input" autocomplete="off">
 
                 <label for="art" class="form-label">Art: *</label>
-                <select name="art" id="art" class="form-input">
+                <select name="art" id="art" class="form-input" autocomplete="off">
                     <option value="Feedback">Feedback</option>
                     <option value="Sonstiges">Sonstiges</option>
                 </select>
 
                 <label for="nachricht" class="form-label">Text: *</label>
-                <textarea name="eintrag" id="nachricht" class="form-textarea" cols="30" rows="10"></textarea>
+                <textarea name="eintrag" id="nachricht" class="form-textarea" cols="30" rows="10" autocomplete="off"></textarea>
 
                 <button type="submit" class="form-button">Absenden</button>
             </form>
+
 
             <div class="form-note">*Pflichtfelder</div>
         </div>

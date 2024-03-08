@@ -19,14 +19,15 @@
 
     <main>
         <section>
-            <div class="sticky-e">
 
+            <div class="sticky-e">
                 <h2 class="impressum1">Impressum</h2>
 
                 Website-Name: Digitalisierung-Help <br>
                 Website-URL: [Website-URL einfügen] <br>
                 <hr>
             </div>
+
             <h3>Verantwortlich:</h3>
             <div class="list-of-names">
                 <p>Saskia Stier </p>

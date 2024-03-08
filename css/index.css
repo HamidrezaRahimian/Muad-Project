@@ -91,6 +91,7 @@ nav a:hover {
     nav a {
         margin-bottom: 0;
     }
+
 }
 
 @media only screen and (max-width: 1100px) {
@@ -245,7 +246,6 @@ img {
 .text-box1 {
     width: auto;
     margin-left: 30px;
-
 }
 
 figcaption {
@@ -332,7 +332,6 @@ blockquote {
     color: #c0392b;
 }
 
-
 .logo-shot {
     width: 100px;
     height: auto;
@@ -344,7 +343,7 @@ blockquote {
 .sticky-e {
     position: -webkit-sticky;
     position: sticky;
-    top: 155px;
+    top: 154.5px;
     background-color: #f7f7f7;
     z-index: 100;
 }
@@ -370,7 +369,6 @@ blockquote {
 }
 
 .list-of-names>p {
-
     color: rgb(156, 109, 109);
 }
 
