@@ -71,9 +71,7 @@
                 für
                 deine eigene Entdeckungsreise ist.
 
-                Herzliche Grüße,
-
-                Muad
+            
 
             </p>
             <aside>
