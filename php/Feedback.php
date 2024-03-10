@@ -64,7 +64,7 @@
                     }
                 }
                 if (!$schon_drin) {
-                    file_put_contents("../assets/data/feedbackdata", $daten, FILE_APPEND);
+                    file_put_contents("../assets/data/feedback-data", $daten, FILE_APPEND);
                 } else {
                     echo "Bitte alle Felder ausfüllen" . "<br><br>";
                 }
@@ -77,7 +77,8 @@
             <details>
                 <summary><Strong>Einträge</Strong></summary>
                 <p><?php
-                    $zitate = file("../assets/data/feedbackdata");
+                    $zitate = file("../assets/data/feedback-data");
+
                     for ($i = 0; $i < count($zitate); $i++) {
                         echo $i + 1 . ": " . $zitate[$i] . "<br><br>";
                     }
