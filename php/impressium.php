@@ -78,7 +78,7 @@
             <div class="thanks">
                 <p>Übrigens: Vielen Dank für Ihren Besuch auf unserer Website, wir danken Ihnen.</p>
                 <audio controls>
-                    <source src="../assets/audio/mixkit-male-crowd-says-thank-you-382.wav" type="audio/ogg">
+                    <source src="../assets/audio/thankyou.wav" type="audio/ogg">
                     Dankeschön Voice
                 </audio>
             </div>
