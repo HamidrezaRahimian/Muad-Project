@@ -78,6 +78,7 @@
                 <summary><Strong>Einträge</Strong></summary>
                 <p><?php
                     $zitate = file("../assets/data/feedback-data");
+
                     for ($i = 0; $i < count($zitate); $i++) {
                         echo $i + 1 . ": " . $zitate[$i] . "<br><br>";
                     }

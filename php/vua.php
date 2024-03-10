@@ -90,8 +90,9 @@
             Ein Vergleichsausdruck ist eine Konstruktion in der Programmierung, die dazu dient,
             zwei Werte oder Ausdrücke miteinander zu vergleichen und das Ergebnis dieses Vergleichs
             zu bestimmen. Typischerweise werden Vergleichsoperatoren wie "größer als" (&gt;),
-            "kleiner als" (&lt;), "gleich" (&equals;=), "ungleich" (!=), "größer gleich" (&gt;=) und "kleiner gleich" (&lt;=) verwendet, um den Vergleich durchzuführen. Diese Ausdrücke werden oft in Bedingungen verwendet, um zu entscheiden, welche Aktionen in einem Programm ausgeführt werden sollen, abhängig von den Ergebnissen des Vergleichs.
+            "kleiner als" (&lt;), "gleich" (&amp;equals;), "ungleich" (!=), "größer gleich" (&gt;=) und "kleiner gleich" (&lt;=) verwendet, um den Vergleich durchzuführen. Diese Ausdrücke werden oft in Bedingungen verwendet, um zu entscheiden, welche Aktionen in einem Programm ausgeführt werden sollen, abhängig von den Ergebnissen des Vergleichs.
         </p>
+
 
         <div class="expression">
 
