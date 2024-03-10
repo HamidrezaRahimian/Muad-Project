@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Feedback</title>
     <link rel="stylesheet" href="../css/index.css">
-    <link rel="icon" type="image/png" href="../assets/images/favicon.png">
+    <link rel="icon" type="image/svg" href="../favicon.svg">
 </head>
 
 <body>
@@ -18,8 +18,6 @@
 
     <section>
         <h2>Feedback</h2>
-
-
         <div class="flex-container-feedback">
             <form method="post" action="form.php" autocomplete="off">
                 <label for="name" class="form-label">Name: *</label>
@@ -40,6 +38,7 @@
                 <button type="submit" class="form-button">Absenden</button>
             </form>
 
+
             <div class="form-note">*Pflichtfelder</div>
         </div>
 
@@ -56,7 +55,7 @@
             $user_info = array($name, $datum, $eintrag, $art);
             if (!empty($name) and !empty($datum) and !empty($eintrag) and !empty($art)) {
                 $daten = implode(";", $user_info) . "\r\n";
-                $zitate = file("../assets/Data/FeedbackData");
+                $zitate = file("../assets/data/feedbackdata");
                 for ($i = 0; $i < count($zitate); $i++) {
                     if ($daten != $zitate[$i]) {
                         $schon_drin = false;
@@ -65,7 +64,7 @@
                     }
                 }
                 if (!$schon_drin) {
-                    file_put_contents("../assets/Data/FeedbackData", $daten, FILE_APPEND);
+                    file_put_contents("../assets/data/feedbackdata", $daten, FILE_APPEND);
                 } else {
                     echo "Bitte alle Felder ausfüllen" . "<br><br>";
                 }
@@ -77,15 +76,14 @@
 
             <details>
                 <summary><Strong>Einträge</Strong></summary>
-                <?php
-                $zitate = file("../assets/Data/FeedbackData");
-                for ($i = 0; $i < count($zitate); $i++) {
-                    echo $i + 1 . ": " . $zitate[$i] . "<br><br>";
-                }
+                <p><?php
+                    $zitate = file("../assets/data/kontactdata");
+                    for ($i = 0; $i < count($zitate); $i++) {
+                        echo $i + 1 . ": " . $zitate[$i] . "<br><br>";
+                    }
 
 
-                ?>
-
+                    ?></p>
             </details>
 
 

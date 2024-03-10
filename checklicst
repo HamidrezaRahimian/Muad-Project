@@ -46,7 +46,7 @@
         Nr. Multimedia und Grafiken | Max. 3 P SOLL IST
         done 1 img 0,5✅
         2 svg, iframe 1✅
-        3 audio, video, source 1,5
+        3 audio, video, source 1,5 ✅
 
 
         ✅  Nr. Formulare | Max. 3,5 P SOLL IST
@@ -63,7 +63,7 @@
             CSS (30 Punkte)
             Es sollen bestimmte Selektoren und Positionierungsmethoden verwendet werden. Zudem
             sollen Formulare und Tabelle gestaltet und mindestens eine Schriftart eingebunden werden
-            (lokal, also ohne Internetverbindung).
+            (lokal, also ohne Internetverbindung). ✅
 
 
         Nr. Selektoren | Max. 11 P SOLL IST
@@ -144,25 +144,38 @@
 Negatives (Max 55P)
 Bei der Erstellung des Projekts sollen bestimmte Rahmenbedingungen beachtet werden.
 Zudem sollen Fehler vermieden und eine möglichst gute Usability bereitgestellt werden.
-Nr. Konfiguration | Max. -10 P MAX IST
+
+
+Nr. Konfiguration | Max. -10 P MAX IST✅
 1 Konfigurationsaufwand, um lauffähig zu sein.
 (Beispiele: Notwendigkeit das Projekt in einem ganz bestimmten Verzeichnis zu haben) -5
-2 Mediendateien lassen sich nicht abspielen
-(Häufiger Grund: Absoluter Pfad oder falscher relativer Pfad) -5
+
+2 Mediendateien lassen sich nicht abspielen✅
+(Häufiger Grund: Absoluter Pfad oder falscher relativer Pfad) -5 
+
+
 Nr. Fehler | Max. -25 P MAX IST
 1 Syntaxfehler bei HTML (-1P pro Fehlertyp)
 (Hinweis: Auch bei Impressum und Datenschutz! ONLINE-VALIDATOR nutzen! Wichtig: Dozent prüft Fehler
 nicht, sondern zählt lediglich. Sollte es Fehler geben, die keine sind, bitte als Hinweis in readme.txt)
 -14
 2 Hinweise oder Fehler bei PHP (-2P pro Fehler) -6
-3 Links / Menüeinträge funktionieren nicht (-1P pro Link) -5
+
+3 Links / Menüeinträge funktionieren nicht (-1P pro Link) -5 ✅
+
+
+
 Nr. Ordnerstruktur und Dateinamen | Max. -10 P MAX IST
-1 Datei- und Ordnerstruktur nicht eingehalten (-1P pro Datei / Ordner)
+1 Datei- und Ordnerstruktur nicht eingehalten (-1P pro Datei / Ordner) ✅
 (In der ZIP-Datei darf zudem kein Unterordner mit dem Projekt sein! SEHR HÄUFIG IGNORIERT!) -5
-2 Dateinamen haben: Großbuchstaben, Leerzeichen, Umlaute, Sonderzeichen
+
+2 Dateinamen haben: Großbuchstaben, Leerzeichen, Umlaute, Sonderzeichen ✅
 (Bitte auch bei Bildern, Medien und Schriftarten! Minuszeichen möglich. -1P pro Datei / Ordner) -5
+
+
 Nr. Sonstiges | Max. -10 P MAX IST
-1 Hohe Ladezeiten
+1 Hohe Ladezeiten✅
 (z.B. weil Bilder mit mehr als 5 MB geladen werden müssen) -5
-2 Schlecht formatierter Quelltext
+
+2 Schlecht formatierter Quelltext ✅
 (Einheitlich verschachtelt ► Empfehlung: Code Beautifier. Kein Wechsel z.B. zwischen <br> und <br />) -5
