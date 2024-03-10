@@ -16,7 +16,7 @@ Kontaktadresse bei Problemen (z.B. Ausführung):
 * hamidrezarahimian15@gmail.com
 
 Getestet über:
-* http://localhost/dhbw/nexus-digital-hub/index.php
+* http://localhost:81/nexus-digital-hub-main
 
 XAMPP-Version: 
 * XAMPP for Windows 8.1.2
