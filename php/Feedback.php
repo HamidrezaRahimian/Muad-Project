@@ -55,7 +55,7 @@
             $user_info = array($name, $datum, $eintrag, $art);
             if (!empty($name) and !empty($datum) and !empty($eintrag) and !empty($art)) {
                 $daten = implode(";", $user_info) . "\r\n";
-                $zitate = file("../assets/data/feedbackdata");
+                $zitate = file("../assets/data/feedback-data");
                 for ($i = 0; $i < count($zitate); $i++) {
                     if ($daten != $zitate[$i]) {
                         $schon_drin = false;
