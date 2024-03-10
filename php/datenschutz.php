@@ -5,7 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Rich Content Website</title>
-    <link rel="stylesheet" href="../css/index.css">
+    <link rel="stylesheet" media="screen and (min-width: 1276px)" href="../css/index.css">
+    <link rel="stylesheet" media="screen and (min-width: 801px) and (max-width: 1275px)" href="../css/indexmedium.css">
+    <link rel="stylesheet" media="screen and (max-width: 800px)" href="../css/indexsmall.css">
     <link rel="icon" type="image/svg" href="../favicon.svg">
 
 </head>

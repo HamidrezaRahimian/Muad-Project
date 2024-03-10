@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <title>Kontakt</title>
-    <link rel="stylesheet" href="../css/index.css">
+    <link rel="stylesheet" media="screen and (min-width: 1276px)" href="../css/index.css">
+    <link rel="stylesheet" media="screen and (min-width: 801px) and (max-width: 1275px)" href="../css/indexmedium.css">
+    <link rel="stylesheet" media="screen and (max-width: 800px)" href="../css/indexsmall.css">
     <link rel="icon" type="image/svg" href="../favicon.svg">
 </head>
 
@@ -21,19 +23,19 @@
         <div class="flex-container-feedback">
             <form method="post" action="form.php" autocomplete="off">
                 <label for="name" class="form-label">Name: *</label>
-                <input type="text" name="name" id="name" class="form-input" >
+                <input type="text" name="name" id="name" class="form-input">
 
                 <label for="datum" class="form-label">Besucht am: *</label>
-                <input type="date" name="datum" id="datum" class="form-input" >
+                <input type="date" name="datum" id="datum" class="form-input">
 
                 <label for="art" class="form-label">Art: *</label>
-                <select name="art" id="art" class="form-input" >
+                <select name="art" id="art" class="form-input">
                     <option value="Feedback">Kontaktanfrage</option>
                     <option value="Sonstiges">Sonstiges</option>
                 </select>
 
                 <label for="nachricht" class="form-label">Text: *</label>
-                <textarea name="eintrag" id="nachricht" class="form-textarea" cols="30" rows="10" ></textarea>
+                <textarea name="eintrag" id="nachricht" class="form-textarea" cols="30" rows="10"></textarea>
 
                 <button type="submit" class="form-button">Absenden</button>
             </form>

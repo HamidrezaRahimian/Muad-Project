@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <title>Feedback</title>
-    <link rel="stylesheet" href="../css/index.css">
+    <link rel="stylesheet" media="screen and (min-width: 1276px)" href="../css/index.css">
+    <link rel="stylesheet" media="screen and (min-width: 801px) and (max-width: 1275px)" href="../css/indexmedium.css">
+    <link rel="stylesheet" media="screen and (max-width: 800px)" href="../css/indexsmall.css">
     <link rel="icon" type="image/svg" href="../favicon.svg">
 </head>
 
@@ -27,13 +29,13 @@
                 <input type="date" name="datum" id="datum" class="form-input" autocomplete="off">
 
                 <label for="art" class="form-label">Art: *</label>
-                <select name="art" id="art" class="form-input" >
+                <select name="art" id="art" class="form-input">
                     <option value="Feedback">Feedback</option>
                     <option value="Sonstiges">Sonstiges</option>
                 </select>
 
                 <label for="nachricht" class="form-label">Text: *</label>
-                <textarea name="eintrag" id="nachricht" class="form-textarea" cols="30" rows="10" ></textarea>
+                <textarea name="eintrag" id="nachricht" class="form-textarea" cols="30" rows="10"></textarea>
 
                 <button type="submit" class="form-button">Absenden</button>
             </form>
