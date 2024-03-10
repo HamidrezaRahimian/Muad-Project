@@ -25,7 +25,8 @@
             <div class="sticky-e">
                 <h2 class="impressum1">Impressum</h2>
 
-                Website-Name: Digitalisierung-Help <br>
+                Website-Name: nexus-digital-hub
+                <br>
                 Website-URL: [Website-URL einfügen] <br>
                 Github : https://github.com/HamidrezaRahimian/nexus-digital-hub
                 <hr>
