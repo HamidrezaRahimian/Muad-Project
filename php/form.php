@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Gästebuch</title>
+    <title>Kontakt</title>
     <link rel="stylesheet" href="../css/index.css">
     <link rel="icon" type="image/svg" href="../favicon.svg">
 </head>
@@ -21,19 +21,19 @@
         <div class="flex-container-feedback">
             <form method="post" action="form.php" autocomplete="off">
                 <label for="name" class="form-label">Name: *</label>
-                <input type="text" name="name" id="name" class="form-input" autocomplete="off">
+                <input type="text" name="name" id="name" class="form-input" >
 
                 <label for="datum" class="form-label">Besucht am: *</label>
-                <input type="date" name="datum" id="datum" class="form-input" autocomplete="off">
+                <input type="date" name="datum" id="datum" class="form-input" >
 
                 <label for="art" class="form-label">Art: *</label>
-                <select name="art" id="art" class="form-input" autocomplete="off">
-                    <option value="Feedback">Feedback</option>
+                <select name="art" id="art" class="form-input" >
+                    <option value="Feedback">Kontaktanfrage</option>
                     <option value="Sonstiges">Sonstiges</option>
                 </select>
 
                 <label for="nachricht" class="form-label">Text: *</label>
-                <textarea name="eintrag" id="nachricht" class="form-textarea" cols="30" rows="10" autocomplete="off"></textarea>
+                <textarea name="eintrag" id="nachricht" class="form-textarea" cols="30" rows="10" ></textarea>
 
                 <button type="submit" class="form-button">Absenden</button>
             </form>
@@ -55,7 +55,7 @@
             $user_info = array($name, $datum, $eintrag, $art);
             if (!empty($name) and !empty($datum) and !empty($eintrag) and !empty($art)) {
                 $daten = implode(";", $user_info) . "\r\n";
-                $zitate = file("../assets/data/kontact-data");
+                $zitate = file("../assets/data/kontactdata");
                 for ($i = 0; $i < count($zitate); $i++) {
                     if ($daten != $zitate[$i]) {
                         $schon_drin = false;
@@ -64,7 +64,7 @@
                     }
                 }
                 if (!$schon_drin) {
-                    file_put_contents("../assets/data/kontact-data", $daten, FILE_APPEND);
+                    file_put_contents("../assets/data/kontactdata", $daten, FILE_APPEND);
                 } else {
                     echo "Bitte alle Felder ausfüllen" . "<br><br>";
                 }
@@ -77,7 +77,7 @@
             <details>
                 <summary><Strong>Einträge</Strong></summary>
                 <p><?php
-                    $zitate = file("../assets/data/kontact-data");
+                    $zitate = file("../assets/data/kontactdata");
                     for ($i = 0; $i < count($zitate); $i++) {
                         echo $i + 1 . ": " . $zitate[$i] . "<br><br>";
                     }
