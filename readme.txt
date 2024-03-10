@@ -1,22 +1,22 @@
 ################################
 #                              #
-#      nexus-digital-hub       #
+#         Projektname          #
 #                              #
 ################################
 
 Gruppe: 
-* 08
+* 01
 
 Matrikelnummern: 
-* 1478661
-* 8855870
-* 1299169
+* 1234567
+* 1234567
+* 1234567
 
 Kontaktadresse bei Problemen (z.B. Ausführung):
-* hamidrezarahimian15@gmail.com
+* projektname@beispiel.de
 
 Getestet über:
-* http://localhost/dhbw/nexus-digital-hub/index.php
+* http://localhost/dhbw/inf21-01-projektname
 
 XAMPP-Version: 
 * XAMPP for Windows 8.1.2
