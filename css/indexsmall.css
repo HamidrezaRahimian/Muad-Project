@@ -1,6 +1,6 @@
 @font-face {
     font-family: Matrix;
-    src: url(../assets/fonts/Archivo-Italic-VariableFont_wdth\,wght.ttf);
+    src: url(../assets/fonts/archivoitalic.ttf);
 }
 
 .emailfont {
@@ -113,12 +113,12 @@ nav a:hover {
 }
 
 section {
-    margin-top: 130px;
+    margin-top: 330px;
     padding: 2em;
 }
 
 .section1 {
-    margin-top: 160px;
+    margin-top: 360px;
     padding: 2em;
 }
 
@@ -343,7 +343,7 @@ blockquote {
 .sticky-e {
     position: -webkit-sticky;
     position: sticky;
-    top: 145px;
+    top: 371px;
     background-color: #f7f7f7;
     z-index: 100;
 }
